@@ -897,6 +897,19 @@
                 href="https://npckc.net/games/"
                 />
   </url><url>
+    <loc>https://npckc.net/thanks/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/thanks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/thanks/"
+                />
+  </url><url>
     <loc>https://npckc.net/info/</loc>
     <priority>0</priority>
     <xhtml:link

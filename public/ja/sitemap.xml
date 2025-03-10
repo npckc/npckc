@@ -884,6 +884,19 @@
                 href="https://npckc.net/ja/patreon/archive/202004/"
                 />
   </url><url>
+    <loc>https://npckc.net/ja/thanks/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/thanks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/thanks/"
+                />
+  </url><url>
     <loc>https://npckc.net/ja/games/</loc>
     <priority>0</priority>
     <xhtml:link

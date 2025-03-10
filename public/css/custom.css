@@ -244,6 +244,12 @@ div.news-small {
     line-height: 1.4;
 }
 
+div.news-archive {
+    font-size: 70%;
+    line-height: 1;
+    margin-top: -20px;
+}
+
 /* paginate design */
 
 div.blog-posts {
