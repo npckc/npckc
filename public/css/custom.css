@@ -12,7 +12,7 @@ body {
 
 body {
     background-color: rgba(4, 51, 68, 1);
-    background: url('../img/coverimage.png');
+    background: url('../img/bg.png');
 
     /* Center and scale the image nicely */
     background-position: center;
