@@ -417,7 +417,7 @@ textarea {
     min-height: 50px;
     width: 90%;
     margin-bottom: 20px;
-    font-size: 18px;
+    font-size: 14px;
     font-family: "Comfortaa", "Kosugi Maru", sans-serif;
     padding: 12px 24px;
     -webkit-box-sizing: border-box;
@@ -433,10 +433,13 @@ textarea:focus {
 
 textarea {
     padding-top: 18px;
+    padding-bottom: 18px;
+    line-height: 1.4em
 }
 
 ::placeholder {
     color: rgba(4, 51, 68, 0.5);
+    font-size: 14px;
 }
 
 details summary {
