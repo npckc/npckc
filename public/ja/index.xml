@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>© npckc</copyright>
-    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://npckc.net/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Icebreakers! リリース（コラボ）</title>
+      <link>https://moonlightjammers.itch.io/icebreakers</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>https://npckc.net/ja/newsletter/20250408/</guid>
+      
+      <description>新作のリリース！</description>
+      
+    </item>
     <item>
       <title>one night, hot springs v1.54 アップデート</title>
       <link>https://npckc.itch.io/one-night-hot-springs/devlog/917971/v154-update-android-apk-uploaded-to-itch</link>
@@ -33,7 +42,7 @@
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0900</pubDate>
       <guid>https://npckc.net/ja/newsletter/20250327/</guid>
       
-      <description>新作のリリース！</description>
+      <description>ニュースへのリンク</description>
       
     </item>
     <item>
