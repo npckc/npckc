@@ -2,50 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://npckc.net/ja/patreon/archive/202504/</loc>
-    <lastmod>2025-04-29T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/patreon/archive/202504/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/archive/202504/"
-                />
-  </url><url>
-    <loc>https://npckc.net/ja/patreon/archive/</loc>
-    <lastmod>2025-04-29T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/patreon/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/archive/"
-                />
-  </url><url>
-    <loc>https://npckc.net/ja/patreon/</loc>
-    <lastmod>2025-04-29T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/patreon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/"
-                />
-  </url><url>
     <loc>https://npckc.net/ja/</loc>
-    <lastmod>2025-04-29T00:00:00+09:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -59,7 +17,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/</loc>
-    <lastmod>2025-04-08T00:00:00+09:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -70,6 +28,62 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/newsletter/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/patreon/archive/202505/</loc>
+    <lastmod>2025-05-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/202505/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/202505/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/patreon/archive/</loc>
+    <lastmod>2025-05-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/patreon/</loc>
+    <lastmod>2025-05-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/patreon/archive/202504/</loc>
+    <lastmod>2025-04-29T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/202504/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/202504/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/patreon/archive/202503/</loc>
@@ -964,2048 +978,2104 @@
                 href="https://npckc.net/ja/info/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250408/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250530_news/</loc>
+    <lastmod>2025-05-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250530_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250530_news/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250524_exhibit/</loc>
+    <lastmod>2025-05-24T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250524_exhibit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250524_exhibit/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250513_news/</loc>
+    <lastmod>2025-05-13T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250513_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250513_news/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250509_exhibit/</loc>
+    <lastmod>2025-05-09T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250509_exhibit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250509_exhibit/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250408_release/</loc>
     <lastmod>2025-04-08T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250408/"
+                href="https://npckc.net/newsletter/20250408_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250408/"
+                href="https://npckc.net/ja/newsletter/20250408_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250402/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250402_update/</loc>
     <lastmod>2025-04-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250402/"
+                href="https://npckc.net/newsletter/20250402_update/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250402/"
+                href="https://npckc.net/ja/newsletter/20250402_update/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250329/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250329_news/</loc>
     <lastmod>2025-03-29T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250329/"
+                href="https://npckc.net/newsletter/20250329_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250329/"
+                href="https://npckc.net/ja/newsletter/20250329_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250327/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250327_update/</loc>
     <lastmod>2025-03-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250327/"
+                href="https://npckc.net/newsletter/20250327_update/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250327/"
+                href="https://npckc.net/ja/newsletter/20250327_update/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250309/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250309_news/</loc>
     <lastmod>2025-03-09T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250309/"
+                href="https://npckc.net/newsletter/20250309_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250309/"
+                href="https://npckc.net/ja/newsletter/20250309_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250220_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250220_2_news/</loc>
     <lastmod>2025-02-20T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250220_2/"
+                href="https://npckc.net/newsletter/20250220_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250220_2/"
+                href="https://npckc.net/ja/newsletter/20250220_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250220_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250220_1_release/</loc>
     <lastmod>2025-02-20T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250220_1/"
+                href="https://npckc.net/newsletter/20250220_1_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250220_1/"
+                href="https://npckc.net/ja/newsletter/20250220_1_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250205/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250205_news/</loc>
     <lastmod>2025-02-05T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250205/"
+                href="https://npckc.net/newsletter/20250205_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250205/"
+                href="https://npckc.net/ja/newsletter/20250205_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250202/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250202_release/</loc>
     <lastmod>2025-02-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250202/"
+                href="https://npckc.net/newsletter/20250202_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250202/"
+                href="https://npckc.net/ja/newsletter/20250202_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250131/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250131_release/</loc>
     <lastmod>2025-01-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250131/"
+                href="https://npckc.net/newsletter/20250131_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250131/"
+                href="https://npckc.net/ja/newsletter/20250131_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250102/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250102_news/</loc>
     <lastmod>2025-01-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250102/"
+                href="https://npckc.net/newsletter/20250102_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250102/"
+                href="https://npckc.net/ja/newsletter/20250102_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20241227/</loc>
+    <loc>https://npckc.net/ja/newsletter/20241227_news/</loc>
     <lastmod>2024-12-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20241227/"
+                href="https://npckc.net/newsletter/20241227_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20241227/"
+                href="https://npckc.net/ja/newsletter/20241227_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20241217/</loc>
+    <loc>https://npckc.net/ja/newsletter/20241217_release/</loc>
     <lastmod>2024-12-17T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20241217/"
+                href="https://npckc.net/newsletter/20241217_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20241217/"
+                href="https://npckc.net/ja/newsletter/20241217_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20241128/</loc>
+    <loc>https://npckc.net/ja/newsletter/20241128_release/</loc>
     <lastmod>2024-11-28T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20241128/"
+                href="https://npckc.net/newsletter/20241128_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20241128/"
+                href="https://npckc.net/ja/newsletter/20241128_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20241113/</loc>
+    <loc>https://npckc.net/ja/newsletter/20241113_exhibit/</loc>
     <lastmod>2024-11-13T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20241113/"
+                href="https://npckc.net/newsletter/20241113_exhibit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20241113/"
+                href="https://npckc.net/ja/newsletter/20241113_exhibit/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20241106/</loc>
+    <loc>https://npckc.net/ja/newsletter/20241106_exhibit/</loc>
     <lastmod>2024-11-06T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20241106/"
+                href="https://npckc.net/newsletter/20241106_exhibit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20241106/"
+                href="https://npckc.net/ja/newsletter/20241106_exhibit/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20241103/</loc>
+    <loc>https://npckc.net/ja/newsletter/20241103_exhibit/</loc>
     <lastmod>2024-11-03T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20241103/"
+                href="https://npckc.net/newsletter/20241103_exhibit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20241103/"
+                href="https://npckc.net/ja/newsletter/20241103_exhibit/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20241017/</loc>
+    <loc>https://npckc.net/ja/newsletter/20241017_news/</loc>
     <lastmod>2024-10-17T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20241017/"
+                href="https://npckc.net/newsletter/20241017_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20241017/"
+                href="https://npckc.net/ja/newsletter/20241017_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20241016/</loc>
+    <loc>https://npckc.net/ja/newsletter/20241016_news/</loc>
     <lastmod>2024-10-16T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20241016/"
+                href="https://npckc.net/newsletter/20241016_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20241016/"
+                href="https://npckc.net/ja/newsletter/20241016_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20241015/</loc>
+    <loc>https://npckc.net/ja/newsletter/20241015_news/</loc>
     <lastmod>2024-10-15T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20241015/"
+                href="https://npckc.net/newsletter/20241015_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20241015/"
+                href="https://npckc.net/ja/newsletter/20241015_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240926/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240926_exhibit/</loc>
     <lastmod>2024-09-26T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240926/"
+                href="https://npckc.net/newsletter/20240926_exhibit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240926/"
+                href="https://npckc.net/ja/newsletter/20240926_exhibit/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240827/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240827_news/</loc>
     <lastmod>2024-08-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240827/"
+                href="https://npckc.net/newsletter/20240827_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240827/"
+                href="https://npckc.net/ja/newsletter/20240827_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240625/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240625_release/</loc>
     <lastmod>2024-06-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240625/"
+                href="https://npckc.net/newsletter/20240625_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240625/"
+                href="https://npckc.net/ja/newsletter/20240625_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240609/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240609_news/</loc>
     <lastmod>2024-06-09T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240609/"
+                href="https://npckc.net/newsletter/20240609_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240609/"
+                href="https://npckc.net/ja/newsletter/20240609_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240608/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240608_news/</loc>
     <lastmod>2024-06-08T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240608/"
+                href="https://npckc.net/newsletter/20240608_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240608/"
+                href="https://npckc.net/ja/newsletter/20240608_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240605/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240605_news/</loc>
     <lastmod>2024-06-05T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240605/"
+                href="https://npckc.net/newsletter/20240605_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240605/"
+                href="https://npckc.net/ja/newsletter/20240605_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240416/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240416_release/</loc>
     <lastmod>2024-04-16T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240416/"
+                href="https://npckc.net/newsletter/20240416_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240416/"
+                href="https://npckc.net/ja/newsletter/20240416_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240408/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240408_news/</loc>
     <lastmod>2024-04-08T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240408/"
+                href="https://npckc.net/newsletter/20240408_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240408/"
+                href="https://npckc.net/ja/newsletter/20240408_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240331/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240331_release/</loc>
     <lastmod>2024-03-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240331/"
+                href="https://npckc.net/newsletter/20240331_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240331/"
+                href="https://npckc.net/ja/newsletter/20240331_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240312/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240312_news/</loc>
     <lastmod>2024-03-12T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240312/"
+                href="https://npckc.net/newsletter/20240312_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240312/"
+                href="https://npckc.net/ja/newsletter/20240312_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240301/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240301_news/</loc>
     <lastmod>2024-03-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240301/"
+                href="https://npckc.net/newsletter/20240301_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240301/"
+                href="https://npckc.net/ja/newsletter/20240301_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240229/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240229_releasse/</loc>
     <lastmod>2024-02-29T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240229/"
+                href="https://npckc.net/newsletter/20240229_releasse/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240229/"
+                href="https://npckc.net/ja/newsletter/20240229_releasse/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240130_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240130_1_news/</loc>
     <lastmod>2024-01-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240130_1/"
+                href="https://npckc.net/newsletter/20240130_1_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240130_1/"
+                href="https://npckc.net/ja/newsletter/20240130_1_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20240130_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20240130_2_news/</loc>
     <lastmod>2024-01-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20240130_2/"
+                href="https://npckc.net/newsletter/20240130_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20240130_2/"
+                href="https://npckc.net/ja/newsletter/20240130_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20231215/</loc>
+    <loc>https://npckc.net/ja/newsletter/20231215_release/</loc>
     <lastmod>2023-12-15T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20231215/"
+                href="https://npckc.net/newsletter/20231215_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20231215/"
+                href="https://npckc.net/ja/newsletter/20231215_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20231204/</loc>
+    <loc>https://npckc.net/ja/newsletter/20231204_exhibit/</loc>
     <lastmod>2023-12-04T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20231204/"
+                href="https://npckc.net/newsletter/20231204_exhibit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20231204/"
+                href="https://npckc.net/ja/newsletter/20231204_exhibit/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20231117_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20231117_2_news/</loc>
     <lastmod>2023-11-17T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20231117_2/"
+                href="https://npckc.net/newsletter/20231117_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20231117_2/"
+                href="https://npckc.net/ja/newsletter/20231117_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20231117_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20231117_1_news/</loc>
     <lastmod>2023-11-17T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20231117_1/"
+                href="https://npckc.net/newsletter/20231117_1_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20231117_1/"
+                href="https://npckc.net/ja/newsletter/20231117_1_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20231116/</loc>
+    <loc>https://npckc.net/ja/newsletter/20231116_news/</loc>
     <lastmod>2023-11-16T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20231116/"
+                href="https://npckc.net/newsletter/20231116_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20231116/"
+                href="https://npckc.net/ja/newsletter/20231116_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20231115/</loc>
+    <loc>https://npckc.net/ja/newsletter/20231115_news/</loc>
     <lastmod>2023-11-15T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20231115/"
+                href="https://npckc.net/newsletter/20231115_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20231115/"
+                href="https://npckc.net/ja/newsletter/20231115_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20231014/</loc>
+    <loc>https://npckc.net/ja/newsletter/20231014_release/</loc>
     <lastmod>2023-10-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20231014/"
+                href="https://npckc.net/newsletter/20231014_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20231014/"
+                href="https://npckc.net/ja/newsletter/20231014_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20231002_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20231002_2_release/</loc>
     <lastmod>2023-10-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20231002_2/"
+                href="https://npckc.net/newsletter/20231002_2_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20231002_2/"
+                href="https://npckc.net/ja/newsletter/20231002_2_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20231002_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20231002_1_release/</loc>
     <lastmod>2023-10-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20231002_1/"
+                href="https://npckc.net/newsletter/20231002_1_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20231002_1/"
+                href="https://npckc.net/ja/newsletter/20231002_1_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230601/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230601_news/</loc>
     <lastmod>2023-06-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230601/"
+                href="https://npckc.net/newsletter/20230601_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230601/"
+                href="https://npckc.net/ja/newsletter/20230601_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230526/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230526_news/</loc>
     <lastmod>2023-05-26T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230526/"
+                href="https://npckc.net/newsletter/20230526_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230526/"
+                href="https://npckc.net/ja/newsletter/20230526_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230502/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230502_release/</loc>
     <lastmod>2023-05-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230502/"
+                href="https://npckc.net/newsletter/20230502_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230502/"
+                href="https://npckc.net/ja/newsletter/20230502_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230422/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230422_release/</loc>
     <lastmod>2023-04-22T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230422/"
+                href="https://npckc.net/newsletter/20230422_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230422/"
+                href="https://npckc.net/ja/newsletter/20230422_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230404/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230404_news/</loc>
     <lastmod>2023-04-04T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230404/"
+                href="https://npckc.net/newsletter/20230404_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230404/"
+                href="https://npckc.net/ja/newsletter/20230404_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230401_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230401_2_exhibit/</loc>
     <lastmod>2023-04-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230401_2/"
+                href="https://npckc.net/newsletter/20230401_2_exhibit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230401_2/"
+                href="https://npckc.net/ja/newsletter/20230401_2_exhibit/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230401_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230401_1_release/</loc>
     <lastmod>2023-04-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230401_1/"
+                href="https://npckc.net/newsletter/20230401_1_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230401_1/"
+                href="https://npckc.net/ja/newsletter/20230401_1_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230327/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230327_news/</loc>
     <lastmod>2023-03-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230327/"
+                href="https://npckc.net/newsletter/20230327_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230327/"
+                href="https://npckc.net/ja/newsletter/20230327_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230325_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230325_2_news/</loc>
     <lastmod>2023-03-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230325_2/"
+                href="https://npckc.net/newsletter/20230325_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230325_2/"
+                href="https://npckc.net/ja/newsletter/20230325_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230325_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230325_1_news/</loc>
     <lastmod>2023-03-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230325_1/"
+                href="https://npckc.net/newsletter/20230325_1_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230325_1/"
+                href="https://npckc.net/ja/newsletter/20230325_1_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230324/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230324_release/</loc>
     <lastmod>2023-03-24T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230324/"
+                href="https://npckc.net/newsletter/20230324_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230324/"
+                href="https://npckc.net/ja/newsletter/20230324_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230323/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230323_news/</loc>
     <lastmod>2023-03-23T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230323/"
+                href="https://npckc.net/newsletter/20230323_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230323/"
+                href="https://npckc.net/ja/newsletter/20230323_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230301_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230301_2_news/</loc>
     <lastmod>2023-03-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230301_2/"
+                href="https://npckc.net/newsletter/20230301_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230301_2/"
+                href="https://npckc.net/ja/newsletter/20230301_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230301_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230301_1_news/</loc>
     <lastmod>2023-03-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230301_1/"
+                href="https://npckc.net/newsletter/20230301_1_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230301_1/"
+                href="https://npckc.net/ja/newsletter/20230301_1_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230228/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230228_news/</loc>
     <lastmod>2023-02-28T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230228/"
+                href="https://npckc.net/newsletter/20230228_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230228/"
+                href="https://npckc.net/ja/newsletter/20230228_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230221/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230221_exhibit/</loc>
     <lastmod>2023-02-21T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230221/"
+                href="https://npckc.net/newsletter/20230221_exhibit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230221/"
+                href="https://npckc.net/ja/newsletter/20230221_exhibit/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230215/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230215_news/</loc>
     <lastmod>2023-02-15T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230215/"
+                href="https://npckc.net/newsletter/20230215_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230215/"
+                href="https://npckc.net/ja/newsletter/20230215_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20230109/</loc>
+    <loc>https://npckc.net/ja/newsletter/20230109_release/</loc>
     <lastmod>2023-01-09T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20230109/"
+                href="https://npckc.net/newsletter/20230109_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20230109/"
+                href="https://npckc.net/ja/newsletter/20230109_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20221230/</loc>
+    <loc>https://npckc.net/ja/newsletter/20221230_news/</loc>
     <lastmod>2022-12-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20221230/"
+                href="https://npckc.net/newsletter/20221230_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20221230/"
+                href="https://npckc.net/ja/newsletter/20221230_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20221228/</loc>
+    <loc>https://npckc.net/ja/newsletter/20221228_news/</loc>
     <lastmod>2022-12-28T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20221228/"
+                href="https://npckc.net/newsletter/20221228_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20221228/"
+                href="https://npckc.net/ja/newsletter/20221228_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20221201/</loc>
+    <loc>https://npckc.net/ja/newsletter/20221201_news/</loc>
     <lastmod>2022-12-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20221201/"
+                href="https://npckc.net/newsletter/20221201_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20221201/"
+                href="https://npckc.net/ja/newsletter/20221201_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20221122/</loc>
+    <loc>https://npckc.net/ja/newsletter/20221122_news/</loc>
     <lastmod>2022-11-22T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20221122/"
+                href="https://npckc.net/newsletter/20221122_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20221122/"
+                href="https://npckc.net/ja/newsletter/20221122_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20221031/</loc>
+    <loc>https://npckc.net/ja/newsletter/20221031_release/</loc>
     <lastmod>2022-10-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20221031/"
+                href="https://npckc.net/newsletter/20221031_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20221031/"
+                href="https://npckc.net/ja/newsletter/20221031_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220914/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220914_news/</loc>
     <lastmod>2022-09-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220914/"
+                href="https://npckc.net/newsletter/20220914_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220914/"
+                href="https://npckc.net/ja/newsletter/20220914_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220908/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220908_news/</loc>
     <lastmod>2022-09-08T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220908/"
+                href="https://npckc.net/newsletter/20220908_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220908/"
+                href="https://npckc.net/ja/newsletter/20220908_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220902/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220902_news/</loc>
     <lastmod>2022-09-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220902/"
+                href="https://npckc.net/newsletter/20220902_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220902/"
+                href="https://npckc.net/ja/newsletter/20220902_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220831_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220831_2_news/</loc>
     <lastmod>2022-08-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220831_2/"
+                href="https://npckc.net/newsletter/20220831_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220831_2/"
+                href="https://npckc.net/ja/newsletter/20220831_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220831_4/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220831_4_news/</loc>
     <lastmod>2022-08-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220831_4/"
+                href="https://npckc.net/newsletter/20220831_4_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220831_4/"
+                href="https://npckc.net/ja/newsletter/20220831_4_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220831_3/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220831_3_news/</loc>
     <lastmod>2022-08-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220831_3/"
+                href="https://npckc.net/newsletter/20220831_3_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220831_3/"
+                href="https://npckc.net/ja/newsletter/20220831_3_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220831_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220831_1_news/</loc>
     <lastmod>2022-08-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220831_1/"
+                href="https://npckc.net/newsletter/20220831_1_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220831_1/"
+                href="https://npckc.net/ja/newsletter/20220831_1_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220830_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220830_1_release/</loc>
     <lastmod>2022-08-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220830_1/"
+                href="https://npckc.net/newsletter/20220830_1_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220830_1/"
+                href="https://npckc.net/ja/newsletter/20220830_1_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220830_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220830_2_news/</loc>
     <lastmod>2022-08-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220830_2/"
+                href="https://npckc.net/newsletter/20220830_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220830_2/"
+                href="https://npckc.net/ja/newsletter/20220830_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220823/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220823_news/</loc>
     <lastmod>2022-08-23T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220823/"
+                href="https://npckc.net/newsletter/20220823_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220823/"
+                href="https://npckc.net/ja/newsletter/20220823_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220812/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220812_news/</loc>
     <lastmod>2022-08-12T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220812/"
+                href="https://npckc.net/newsletter/20220812_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220812/"
+                href="https://npckc.net/ja/newsletter/20220812_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220628/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220628_news/</loc>
     <lastmod>2022-06-28T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220628/"
+                href="https://npckc.net/newsletter/20220628_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220628/"
+                href="https://npckc.net/ja/newsletter/20220628_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220620/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220620_release/</loc>
     <lastmod>2022-06-20T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220620/"
+                href="https://npckc.net/newsletter/20220620_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220620/"
+                href="https://npckc.net/ja/newsletter/20220620_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220617/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220617_news/</loc>
     <lastmod>2022-06-17T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220617/"
+                href="https://npckc.net/newsletter/20220617_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220617/"
+                href="https://npckc.net/ja/newsletter/20220617_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220614/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220614_news/</loc>
     <lastmod>2022-06-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220614/"
+                href="https://npckc.net/newsletter/20220614_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220614/"
+                href="https://npckc.net/ja/newsletter/20220614_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220505/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220505_release/</loc>
     <lastmod>2022-05-05T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220505/"
+                href="https://npckc.net/newsletter/20220505_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220505/"
+                href="https://npckc.net/ja/newsletter/20220505_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220501/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220501_news/</loc>
     <lastmod>2022-05-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220501/"
+                href="https://npckc.net/newsletter/20220501_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220501/"
+                href="https://npckc.net/ja/newsletter/20220501_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220416/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220416_news/</loc>
     <lastmod>2022-04-16T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220416/"
+                href="https://npckc.net/newsletter/20220416_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220416/"
+                href="https://npckc.net/ja/newsletter/20220416_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220321/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220321_release/</loc>
     <lastmod>2022-03-21T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220321/"
+                href="https://npckc.net/newsletter/20220321_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220321/"
+                href="https://npckc.net/ja/newsletter/20220321_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220317/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220317_release/</loc>
     <lastmod>2022-03-17T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220317/"
+                href="https://npckc.net/newsletter/20220317_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220317/"
+                href="https://npckc.net/ja/newsletter/20220317_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220214/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220214_release/</loc>
     <lastmod>2022-02-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220214/"
+                href="https://npckc.net/newsletter/20220214_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220214/"
+                href="https://npckc.net/ja/newsletter/20220214_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220112/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220112_news/</loc>
     <lastmod>2022-02-12T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220112/"
+                href="https://npckc.net/newsletter/20220112_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220112/"
+                href="https://npckc.net/ja/newsletter/20220112_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220202/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220202_news/</loc>
     <lastmod>2022-02-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220202/"
+                href="https://npckc.net/newsletter/20220202_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220202/"
+                href="https://npckc.net/ja/newsletter/20220202_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220120/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220120_release/</loc>
     <lastmod>2022-01-20T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220120/"
+                href="https://npckc.net/newsletter/20220120_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220120/"
+                href="https://npckc.net/ja/newsletter/20220120_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220105/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220105_news/</loc>
     <lastmod>2022-01-05T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220105/"
+                href="https://npckc.net/newsletter/20220105_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220105/"
+                href="https://npckc.net/ja/newsletter/20220105_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20220103/</loc>
+    <loc>https://npckc.net/ja/newsletter/20220103_news/</loc>
     <lastmod>2022-01-03T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20220103/"
+                href="https://npckc.net/newsletter/20220103_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20220103/"
+                href="https://npckc.net/ja/newsletter/20220103_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211230_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211230_2_news/</loc>
     <lastmod>2021-12-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211230_2/"
+                href="https://npckc.net/newsletter/20211230_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211230_2/"
+                href="https://npckc.net/ja/newsletter/20211230_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211230_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211230_1_release/</loc>
     <lastmod>2021-12-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211230_1/"
+                href="https://npckc.net/newsletter/20211230_1_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211230_1/"
+                href="https://npckc.net/ja/newsletter/20211230_1_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211228/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211228_news/</loc>
     <lastmod>2021-12-28T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211228/"
+                href="https://npckc.net/newsletter/20211228_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211228/"
+                href="https://npckc.net/ja/newsletter/20211228_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211224/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211224_news/</loc>
     <lastmod>2021-12-24T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211224/"
+                href="https://npckc.net/newsletter/20211224_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211224/"
+                href="https://npckc.net/ja/newsletter/20211224_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211214/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211214_news/</loc>
     <lastmod>2021-12-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211214/"
+                href="https://npckc.net/newsletter/20211214_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211214/"
+                href="https://npckc.net/ja/newsletter/20211214_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211210_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211210_1_release/</loc>
     <lastmod>2021-12-10T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211210_1/"
+                href="https://npckc.net/newsletter/20211210_1_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211210_1/"
+                href="https://npckc.net/ja/newsletter/20211210_1_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211210_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211210_2_news/</loc>
     <lastmod>2021-12-10T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211210_2/"
+                href="https://npckc.net/newsletter/20211210_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211210_2/"
+                href="https://npckc.net/ja/newsletter/20211210_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211207/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211207_news/</loc>
     <lastmod>2021-12-07T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211207/"
+                href="https://npckc.net/newsletter/20211207_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211207/"
+                href="https://npckc.net/ja/newsletter/20211207_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211116/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211116_news/</loc>
     <lastmod>2021-11-16T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211116/"
+                href="https://npckc.net/newsletter/20211116_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211116/"
+                href="https://npckc.net/ja/newsletter/20211116_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211102/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211102_news/</loc>
     <lastmod>2021-11-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211102/"
+                href="https://npckc.net/newsletter/20211102_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211102/"
+                href="https://npckc.net/ja/newsletter/20211102_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20211028/</loc>
+    <loc>https://npckc.net/ja/newsletter/20211028_release/</loc>
     <lastmod>2021-10-28T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20211028/"
+                href="https://npckc.net/newsletter/20211028_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20211028/"
+                href="https://npckc.net/ja/newsletter/20211028_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210826/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210826_release/</loc>
     <lastmod>2021-08-26T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210826/"
+                href="https://npckc.net/newsletter/20210826_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210826/"
+                href="https://npckc.net/ja/newsletter/20210826_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210628/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210628_release/</loc>
     <lastmod>2021-06-28T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210628/"
+                href="https://npckc.net/newsletter/20210628_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210628/"
+                href="https://npckc.net/ja/newsletter/20210628_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210621_2/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210621_2_news/</loc>
     <lastmod>2021-06-21T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210621_2/"
+                href="https://npckc.net/newsletter/20210621_2_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210621_2/"
+                href="https://npckc.net/ja/newsletter/20210621_2_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210621_1/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210621_1_release/</loc>
     <lastmod>2021-06-21T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210621_1/"
+                href="https://npckc.net/newsletter/20210621_1_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210621_1/"
+                href="https://npckc.net/ja/newsletter/20210621_1_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210611/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210611_release/</loc>
     <lastmod>2021-06-11T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210611/"
+                href="https://npckc.net/newsletter/20210611_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210611/"
+                href="https://npckc.net/ja/newsletter/20210611_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210514/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210514_release/</loc>
     <lastmod>2021-05-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210514/"
+                href="https://npckc.net/newsletter/20210514_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210514/"
+                href="https://npckc.net/ja/newsletter/20210514_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210330/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210330_release/</loc>
     <lastmod>2021-03-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210330/"
+                href="https://npckc.net/newsletter/20210330_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210330/"
+                href="https://npckc.net/ja/newsletter/20210330_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210318/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210318_release/</loc>
     <lastmod>2021-03-18T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210318/"
+                href="https://npckc.net/newsletter/20210318_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210318/"
+                href="https://npckc.net/ja/newsletter/20210318_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210312/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210312_release/</loc>
     <lastmod>2021-03-12T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210312/"
+                href="https://npckc.net/newsletter/20210312_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210312/"
+                href="https://npckc.net/ja/newsletter/20210312_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210226/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210226_release/</loc>
     <lastmod>2021-02-26T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210226/"
+                href="https://npckc.net/newsletter/20210226_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210226/"
+                href="https://npckc.net/ja/newsletter/20210226_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20210131/</loc>
+    <loc>https://npckc.net/ja/newsletter/20210131_release/</loc>
     <lastmod>2021-01-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20210131/"
+                href="https://npckc.net/newsletter/20210131_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20210131/"
+                href="https://npckc.net/ja/newsletter/20210131_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20201230/</loc>
+    <loc>https://npckc.net/ja/newsletter/20201230_release/</loc>
     <lastmod>2020-12-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20201230/"
+                href="https://npckc.net/newsletter/20201230_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20201230/"
+                href="https://npckc.net/ja/newsletter/20201230_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20201211/</loc>
+    <loc>https://npckc.net/ja/newsletter/20201211_release/</loc>
     <lastmod>2020-12-11T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20201211/"
+                href="https://npckc.net/newsletter/20201211_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20201211/"
+                href="https://npckc.net/ja/newsletter/20201211_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20201128/</loc>
+    <loc>https://npckc.net/ja/newsletter/20201128_release/</loc>
     <lastmod>2020-11-28T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20201128/"
+                href="https://npckc.net/newsletter/20201128_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20201128/"
+                href="https://npckc.net/ja/newsletter/20201128_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20201008/</loc>
+    <loc>https://npckc.net/ja/newsletter/20201008_release/</loc>
     <lastmod>2020-10-08T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20201008/"
+                href="https://npckc.net/newsletter/20201008_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20201008/"
+                href="https://npckc.net/ja/newsletter/20201008_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20200930/</loc>
+    <loc>https://npckc.net/ja/newsletter/20200930_release/</loc>
     <lastmod>2020-09-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20200930/"
+                href="https://npckc.net/newsletter/20200930_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20200930/"
+                href="https://npckc.net/ja/newsletter/20200930_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20200701/</loc>
+    <loc>https://npckc.net/ja/newsletter/20200701_news/</loc>
     <lastmod>2020-07-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20200701/"
+                href="https://npckc.net/newsletter/20200701_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20200701/"
+                href="https://npckc.net/ja/newsletter/20200701_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20200622/</loc>
+    <loc>https://npckc.net/ja/newsletter/20200622_release/</loc>
     <lastmod>2020-06-22T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20200622/"
+                href="https://npckc.net/newsletter/20200622_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20200622/"
+                href="https://npckc.net/ja/newsletter/20200622_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20200512/</loc>
+    <loc>https://npckc.net/ja/newsletter/20200512_release/</loc>
     <lastmod>2020-05-12T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20200512/"
+                href="https://npckc.net/newsletter/20200512_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20200512/"
+                href="https://npckc.net/ja/newsletter/20200512_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20200413/</loc>
+    <loc>https://npckc.net/ja/newsletter/20200413_release/</loc>
     <lastmod>2020-04-13T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20200413/"
+                href="https://npckc.net/newsletter/20200413_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20200413/"
+                href="https://npckc.net/ja/newsletter/20200413_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20200319/</loc>
+    <loc>https://npckc.net/ja/newsletter/20200319_news/</loc>
     <lastmod>2020-03-19T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20200319/"
+                href="https://npckc.net/newsletter/20200319_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20200319/"
+                href="https://npckc.net/ja/newsletter/20200319_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20200109/</loc>
+    <loc>https://npckc.net/ja/newsletter/20200109_release/</loc>
     <lastmod>2020-01-09T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20200109/"
+                href="https://npckc.net/newsletter/20200109_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20200109/"
+                href="https://npckc.net/ja/newsletter/20200109_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20191226/</loc>
+    <loc>https://npckc.net/ja/newsletter/20191226_release/</loc>
     <lastmod>2019-12-26T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20191226/"
+                href="https://npckc.net/newsletter/20191226_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20191226/"
+                href="https://npckc.net/ja/newsletter/20191226_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20191202/</loc>
+    <loc>https://npckc.net/ja/newsletter/20191202_news/</loc>
     <lastmod>2019-12-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20191202/"
+                href="https://npckc.net/newsletter/20191202_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20191202/"
+                href="https://npckc.net/ja/newsletter/20191202_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20191114/</loc>
+    <loc>https://npckc.net/ja/newsletter/20191114_release/</loc>
     <lastmod>2019-11-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20191114/"
+                href="https://npckc.net/newsletter/20191114_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20191114/"
+                href="https://npckc.net/ja/newsletter/20191114_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20190831/</loc>
+    <loc>https://npckc.net/ja/newsletter/20190831_release/</loc>
     <lastmod>2019-08-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20190831/"
+                href="https://npckc.net/newsletter/20190831_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20190831/"
+                href="https://npckc.net/ja/newsletter/20190831_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20190805/</loc>
+    <loc>https://npckc.net/ja/newsletter/20190805_news/</loc>
     <lastmod>2019-08-05T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20190805/"
+                href="https://npckc.net/newsletter/20190805_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20190805/"
+                href="https://npckc.net/ja/newsletter/20190805_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20190527/</loc>
+    <loc>https://npckc.net/ja/newsletter/20190527_release/</loc>
     <lastmod>2019-05-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20190527/"
+                href="https://npckc.net/newsletter/20190527_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20190527/"
+                href="https://npckc.net/ja/newsletter/20190527_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20190522/</loc>
+    <loc>https://npckc.net/ja/newsletter/20190522_release/</loc>
     <lastmod>2019-05-22T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20190522/"
+                href="https://npckc.net/newsletter/20190522_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20190522/"
+                href="https://npckc.net/ja/newsletter/20190522_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20190512/</loc>
+    <loc>https://npckc.net/ja/newsletter/20190512_news/</loc>
     <lastmod>2019-05-12T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20190512/"
+                href="https://npckc.net/newsletter/20190512_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20190512/"
+                href="https://npckc.net/ja/newsletter/20190512_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20181031/</loc>
+    <loc>https://npckc.net/ja/newsletter/20181031_release/</loc>
     <lastmod>2018-10-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20181031/"
+                href="https://npckc.net/newsletter/20181031_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20181031/"
+                href="https://npckc.net/ja/newsletter/20181031_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20181014/</loc>
+    <loc>https://npckc.net/ja/newsletter/20181014_news/</loc>
     <lastmod>2018-10-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20181014/"
+                href="https://npckc.net/newsletter/20181014_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20181014/"
+                href="https://npckc.net/ja/newsletter/20181014_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20180916/</loc>
+    <loc>https://npckc.net/ja/newsletter/20180916_news/</loc>
     <lastmod>2018-09-16T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20180916/"
+                href="https://npckc.net/newsletter/20180916_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20180916/"
+                href="https://npckc.net/ja/newsletter/20180916_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20180728/</loc>
+    <loc>https://npckc.net/ja/newsletter/20180728_release/</loc>
     <lastmod>2018-07-28T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20180728/"
+                href="https://npckc.net/newsletter/20180728_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20180728/"
+                href="https://npckc.net/ja/newsletter/20180728_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20180227/</loc>
+    <loc>https://npckc.net/ja/newsletter/20180227_release/</loc>
     <lastmod>2018-02-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20180227/"
+                href="https://npckc.net/newsletter/20180227_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20180227/"
+                href="https://npckc.net/ja/newsletter/20180227_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20180215/</loc>
+    <loc>https://npckc.net/ja/newsletter/20180215_news/</loc>
     <lastmod>2018-02-15T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20180215/"
+                href="https://npckc.net/newsletter/20180215_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20180215/"
+                href="https://npckc.net/ja/newsletter/20180215_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20180131/</loc>
+    <loc>https://npckc.net/ja/newsletter/20180131_release/</loc>
     <lastmod>2018-01-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20180131/"
+                href="https://npckc.net/newsletter/20180131_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20180131/"
+                href="https://npckc.net/ja/newsletter/20180131_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20171204/</loc>
+    <loc>https://npckc.net/ja/newsletter/20171204_release/</loc>
     <lastmod>2017-10-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20171204/"
+                href="https://npckc.net/newsletter/20171204_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20171204/"
+                href="https://npckc.net/ja/newsletter/20171204_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20171030/</loc>
+    <loc>https://npckc.net/ja/newsletter/20171030_release/</loc>
     <lastmod>2017-10-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20171030/"
+                href="https://npckc.net/newsletter/20171030_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20171030/"
+                href="https://npckc.net/ja/newsletter/20171030_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20171018/</loc>
+    <loc>https://npckc.net/ja/newsletter/20171018_release/</loc>
     <lastmod>2017-10-18T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20171018/"
+                href="https://npckc.net/newsletter/20171018_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20171018/"
+                href="https://npckc.net/ja/newsletter/20171018_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20170420/</loc>
+    <loc>https://npckc.net/ja/newsletter/20170420_release/</loc>
     <lastmod>2017-04-20T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20170420/"
+                href="https://npckc.net/newsletter/20170420_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20170420/"
+                href="https://npckc.net/ja/newsletter/20170420_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20170410/</loc>
+    <loc>https://npckc.net/ja/newsletter/20170410_release/</loc>
     <lastmod>2017-04-10T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20170410/"
+                href="https://npckc.net/newsletter/20170410_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20170410/"
+                href="https://npckc.net/ja/newsletter/20170410_release/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20170329/</loc>
+    <loc>https://npckc.net/ja/newsletter/20170329_release/</loc>
     <lastmod>2017-03-29T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20170329/"
+                href="https://npckc.net/newsletter/20170329_release/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20170329/"
+                href="https://npckc.net/ja/newsletter/20170329_release/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/genre/</loc>

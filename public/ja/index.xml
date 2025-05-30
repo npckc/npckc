@@ -7,13 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>© npckc</copyright>
-    <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://npckc.net/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMITIA152・おしながき</title>
+      <link>https://bsky.app/profile/npckc.net/post/3lqf7cnlq2c2w</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0900</pubDate>
+      <guid>https://npckc.net/ja/newsletter/20250530_news/</guid>
+      
+      <description>ニュースへのリンク</description>
+      
+    </item>
+    <item>
+      <title>DREAMSCAPE#3・展示</title>
+      <link>https://bsky.app/profile/npckc.net/post/3lpvethh5h22g</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0900</pubDate>
+      <guid>https://npckc.net/ja/newsletter/20250524_exhibit/</guid>
+      
+      <description>ニュースへのリンク</description>
+      
+    </item>
+    <item>
+      <title>SPICE・ドリームスケープ・インタビュー</title>
+      <link>https://spice.eplus.jp/articles/337613</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0900</pubDate>
+      <guid>https://npckc.net/ja/newsletter/20250513_news/</guid>
+      
+      <description>ニュースへのリンク</description>
+      
+    </item>
+    <item>
+      <title>Take Control・展示</title>
+      <link>https://www.facebook.com/StaedtischeGalerieWolfsburg/photos/-game-night-in-der-st%C3%A4dtischen-galerie-wolfsburg%EF%B8%8F-freitag-9-mai-2025-1821-uhrdei/1253603803431366/?_rdr</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0900</pubDate>
+      <guid>https://npckc.net/ja/newsletter/20250509_exhibit/</guid>
+      
+      <description>ニュースへのリンク</description>
+      
+    </item>
     <item>
       <title>Icebreakers! リリース（コラボ）</title>
       <link>https://moonlightjammers.itch.io/icebreakers</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250408/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250408_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -22,7 +58,7 @@
       <title>one night, hot springs v1.54 アップデート</title>
       <link>https://npckc.itch.io/one-night-hot-springs/devlog/917971/v154-update-android-apk-uploaded-to-itch</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250402/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250402_update/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -31,7 +67,7 @@
       <title>itch8周年セール</title>
       <link>https://itch.io/s/150418/npckc-8th-itchversary</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250329/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250329_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -40,7 +76,7 @@
       <title>A TAVERN FOR TEAアップデート</title>
       <link>https://store.steampowered.com/news/app/2319470/view/505072542004805784</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250327/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250327_update/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -49,7 +85,7 @@
       <title>電ファミニコゲーマー・A YEAR OF SPRINGS・ニュース</title>
       <link>https://news.denfaminicogamer.jp/news/250306j</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250309/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250309_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -58,7 +94,7 @@
       <title>GoNintendo・マロンの日・ニュース</title>
       <link>https://gonintendo.com/contents/45641-marron-s-day-hops-onto-switch-today#20250220</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250220_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250220_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -67,7 +103,7 @@
       <title>マロンの日・Switch向けリリース</title>
       <link>https://marronsday.npckc.net</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250220_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250220_1_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -76,7 +112,7 @@
       <title>NoisyPixel・マロンの日・ニュース</title>
       <link>https://noisypixel.net/indie-gameboy-adventure-marrons-day-switch-release</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250205/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250205_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -85,7 +121,7 @@
       <title>Dress Up Template for Ren&#39;Py・リリース</title>
       <link>https://npckc.itch.io/dress-up-template-for-renpy</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250202/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250202_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -94,7 +130,7 @@
       <title>Bubble Cave・リリース（コラボ）</title>
       <link>https://hikokyoujurou.itch.io/bubble-cave</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250131/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250131_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -103,7 +139,7 @@
       <title>TecTec・土星の日々・紹介</title>
       <link>https://www.maykearth.com.br/en/post/tectec-magazine-02-1#20250102</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20250102/</guid>
+      <guid>https://npckc.net/ja/newsletter/20250102_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -112,7 +148,7 @@
       <title>GoNintendo・マロンの日・ニュース</title>
       <link>https://gonintendo.com/contents/44146-marron-s-day-coming-to-switch-february-20th-2025#20241227</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20241227/</guid>
+      <guid>https://npckc.net/ja/newsletter/20241227_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -121,7 +157,7 @@
       <title>土星の日々・リリース</title>
       <link>https://npckc.itch.io/days-of-saturn/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20241217/</guid>
+      <guid>https://npckc.net/ja/newsletter/20241217_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -130,7 +166,7 @@
       <title>マロンの日・リリース</title>
       <link>https://marronsday.npckc.net</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20241128/</guid>
+      <guid>https://npckc.net/ja/newsletter/20241128_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -139,7 +175,7 @@
       <title>MixBrasil・展示</title>
       <link>https://mixbrasil.org.br/32/en/a-year-of-springs-2#20241113</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20241113/</guid>
+      <guid>https://npckc.net/ja/newsletter/20241113_exhibit/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -148,7 +184,7 @@
       <title>Aesthetica Short Film Festival・展示</title>
       <link>https://issuu.com/aesthetica_magazine/docs/aesthetica-short-film-festival-2024?fr=xPf81NTU#20241106</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20241106/</guid>
+      <guid>https://npckc.net/ja/newsletter/20241106_exhibit/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -157,7 +193,7 @@
       <title>デジゲー博・展示</title>
       <link>https://digigame-expo.org/circlelist#20241103</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20241103/</guid>
+      <guid>https://npckc.net/ja/newsletter/20241103_exhibit/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -166,7 +202,7 @@
       <title>Real Soundテック・東京ゲームショウ・特集</title>
       <link>https://realsound.jp/tech/2024/10/post-1810946.html#20241017</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20241017/</guid>
+      <guid>https://npckc.net/ja/newsletter/20241017_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -175,7 +211,7 @@
       <title>アフター6ジャンクション2・A HERO AND A GARDEN・紹介</title>
       <link>https://www.youtube.com/watch?v=YvHYPBpH0Ro#20241016</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20241016/</guid>
+      <guid>https://npckc.net/ja/newsletter/20241016_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -184,7 +220,7 @@
       <title>TecTec・マロンの日・紹介</title>
       <link>https://www.maykearth.com.br/en/post/tectec-magazine</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20241015/</guid>
+      <guid>https://npckc.net/ja/newsletter/20241015_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -193,7 +229,7 @@
       <title>東京ゲームショウ・展示</title>
       <link>https://expo.nikkeibp.co.jp/tgs/2024/jp/display/exhibit/exhibit-list/indie80.html#20240926</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240926/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240926_exhibit/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -202,7 +238,7 @@
       <title>かもやなぎ放送局・インタビュー</title>
       <link>https://www.kamoyanagi.net/post/interview06#20240827</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240827/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240827_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -211,7 +247,7 @@
       <title>Ubasute・リリース（コラボ）</title>
       <link>https://andrewkiya.itch.io/ubasute</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240625/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240625_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -220,7 +256,7 @@
       <title>BlerdyOtome・プライド月間・特集</title>
       <link>https://blerdyotome.com/2024/06/09/visual-novels-to-play-this-pride-month-and-beyond/#20240609</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240609/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240609_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -229,7 +265,7 @@
       <title>タコス屋ブレイズ・a pet shop after dark・コラボ</title>
       <link>https://apetshopafterdark.npckc.net/#tacos</link>
       <pubDate>Sat, 08 Jun 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240608/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240608_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -238,7 +274,7 @@
       <title>GamingBible・プライド月間・特集</title>
       <link>https://www.gamingbible.com/features/celebrate-pride-month-games-607408-20240605#20240605</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240605/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240605_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -247,7 +283,7 @@
       <title>Butler! Summon the Imps!・リリース（コラボ）</title>
       <link>https://moonlightjammers.itch.io/butler-summon-the-imps</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240416/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240416_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -256,7 +292,7 @@
       <title>令和ビデオゲーム・グラウンドゼロ・気のせいだ・レビュー</title>
       <link>https://note.com/reibizero/n/nf5a5815cc715</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240408/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240408_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -265,7 +301,7 @@
       <title>気のせいだ・リリース</title>
       <link>https://npckc.itch.io/youre-just-imagining-it</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240331/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240331_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -274,7 +310,7 @@
       <title>Google Play・インディーゲームアクセレレーター</title>
       <link>https://android-developers.googleblog.com/2024/03/meet-class-of-2024-for-google-play-indie-games-accelerator.html</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240312/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240312_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -283,7 +319,7 @@
       <title>Game*Spark・2/29・ニュース</title>
       <link>https://www.gamespark.jp/article/2024/03/01/138968.html#20240301</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240301/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240301_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -292,7 +328,7 @@
       <title>2/29・リリース</title>
       <link>https://npckc.itch.io/229</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240229/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240229_releasse/</guid>
       
       <description>新作のリリース！</description>
       
@@ -301,7 +337,7 @@
       <title>4Gamer・マロンの日・ニュース</title>
       <link>https://www.4gamer.net/games/770/G077097/20240130011/#20240130</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240130_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240130_1_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -310,7 +346,7 @@
       <title>AUTOMATON・マロンの日・ニュース</title>
       <link>https://automaton-media.com/articles/newsjp/20240130-280633/#20240130</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20240130_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20240130_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -319,7 +355,7 @@
       <title>snack machine change・リリース</title>
       <link>https://npckc.itch.io/snack-machine-change</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20231215/</guid>
+      <guid>https://npckc.net/ja/newsletter/20231215_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -328,7 +364,7 @@
       <title>Google Play・#WeArePlayJapan</title>
       <link>https://play.google.com/intl/ja/console/about/weareplay-japan/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20231204/</guid>
+      <guid>https://npckc.net/ja/newsletter/20231204_exhibit/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -337,7 +373,7 @@
       <title>Game Developer・インタビュー</title>
       <link>https://www.gamedeveloper.com/design/-i-a-year-of-springs-i-is-about-finding-yourself-in-a-world-still-learning-to-be-kind</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20231117_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20231117_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -346,7 +382,7 @@
       <title>Indie Freaks・デジゲー博・特集</title>
       <link>https://www.indie-freaks.com/2023/11/digigame-expo-ou-culture-marron/#20231117</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20231117_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20231117_1_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -355,7 +391,7 @@
       <title>game8・デジゲー博・特集</title>
       <link>https://game8.jp/articles/567980#20231116</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20231116/</guid>
+      <guid>https://npckc.net/ja/newsletter/20231116_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -364,7 +400,7 @@
       <title>BRUTUS・ゲームスタイルブック</title>
       <link>https://brutus.jp/magazine/issue/997/#20231115</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20231115/</guid>
+      <guid>https://npckc.net/ja/newsletter/20231115_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -373,7 +409,7 @@
       <title>mew&#39;s under the truck・リリース</title>
       <link>https://npckc.itch.io/mews-under-the-truck</link>
       <pubDate>Sat, 14 Oct 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20231014/</guid>
+      <guid>https://npckc.net/ja/newsletter/20231014_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -382,7 +418,7 @@
       <title>gb pixel art: reading adventure・リリース</title>
       <link>https://npckc.itch.io/gb-pixel-art-reading-adventure</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20231002_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20231002_2_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -391,7 +427,7 @@
       <title>Packed to the Gills・リリース（コラボ）</title>
       <link>https://moonlightjammers.itch.io/packed-to-the-gills</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20231002_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20231002_1_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -400,7 +436,7 @@
       <title>Google Play・プライド月間・特集</title>
       <link>https://play.google.com/store/apps/editorial?id=mc_games_editorial_1p_pride23_fcp#20230601</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230601/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230601_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -409,7 +445,7 @@
       <title>4Gamer・INDIE Live Expo・インタビュー</title>
       <link>https://www.4gamer.net/games/999/G999905/20230509033/#20230526</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230526/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230526_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -418,7 +454,7 @@
       <title>Rain on Their Parade!・リリース（コラボ）</title>
       <link>https://moonlightjammers.itch.io/rain-on-their-parade</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230502/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230502_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -427,7 +463,7 @@
       <title>plastic tape・リリース</title>
       <link>https://npckc.itch.io/plastic-tape</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230422/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230422_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -436,7 +472,7 @@
       <title>GameDrive・A TAVERN FOR TEA・ニュース</title>
       <link>https://gamedrive.jp/news/1680234456#20230404</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230404/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230404_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -445,7 +481,7 @@
       <title>Now Play This・tiny wanderer・展示</title>
       <link>https://nowplaythis.net/game/tiny-wanderer/#20230401</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230401_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230401_2_exhibit/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -454,7 +490,7 @@
       <title>you are dough・リリース</title>
       <link>https://npckc.itch.io/you-are-dough</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230401_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230401_1_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -463,7 +499,7 @@
       <title>Gayming・A TAVERN FOR TEA・ニュース</title>
       <link>https://gaymingmag.com/2023/03/a-tavern-for-tea-is-now-available-on-steam/#20230327</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230327/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230327_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -472,7 +508,7 @@
       <title>電ファミニコゲーマー・A TAVERN FOR TEA・ニュース</title>
       <link>https://news.denfaminicogamer.jp/news/2303242i#20230325</link>
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230325_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230325_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -481,7 +517,7 @@
       <title>gamebase・A TAVERN FOR TEA・ニュース</title>
       <link>https://news.gamebase.com.tw/news/detail/99408484#20230325</link>
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230325_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230325_1_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -490,7 +526,7 @@
       <title>A TAVERN FOR TEA v2・リリース</title>
       <link>https://atavernfortea.npckc.net</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230324/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230324_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -499,7 +535,7 @@
       <title>PocketGamer・A TAVERN FOR TEA・ニュース</title>
       <link>https://www.pocketgamer.com/a-tavern-for-tea/out-now/#20230323</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230323/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230323_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -508,7 +544,7 @@
       <title>Gayming・ゲーム・オブ・ザ・ウィーク・紹介</title>
       <link>https://gaymingmag.com/2023/03/gayme-of-the-week-one-night-hot-springs/#20230301</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230301_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230301_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -517,7 +553,7 @@
       <title>Rock Paper Shotgun・A TAVERN FOR TEA・ニュース</title>
       <link>https://www.rockpapershotgun.com/a-year-of-springs-dev-npckc-is-bringing-their-fantasy-tea-brewing-sim-to-pc#20230301</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230301_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230301_1_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -526,7 +562,7 @@
       <title>AUTOMATON・A TAVERN FOR TEA・ニュース</title>
       <link>https://automaton-media.com/articles/newsjp/20230228-238864/#20230228</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230228/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230228_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -535,7 +571,7 @@
       <title>pride at play・展示カタログ</title>
       <link>https://prideatplay.org/#20230221</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230221/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230221_exhibit/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -544,7 +580,7 @@
       <title>NHK・クローズアップ現代・特集</title>
       <link>https://www.nhk.or.jp/gendai/articles/4752/#20230215</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230215/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230215_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -553,7 +589,7 @@
       <title>Greenfinger!・リリース（コラボ）</title>
       <link>https://moonlightjammers.itch.io/greenfinger</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20230109/</guid>
+      <guid>https://npckc.net/ja/newsletter/20230109_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -562,7 +598,7 @@
       <title>AUTOMATON・ベスト短編ゲーム・特集</title>
       <link>https://automaton-media.com/articles/columnjp/20221230-232347/#20221230</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20221230/</guid>
+      <guid>https://npckc.net/ja/newsletter/20221230_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -571,7 +607,7 @@
       <title>stuck in the airport・リリース</title>
       <link>https://npckc.itch.io/stuck-in-the-airport</link>
       <pubDate>Wed, 28 Dec 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20221228/</guid>
+      <guid>https://npckc.net/ja/newsletter/20221228_news/</guid>
       
       <description>新作のリリース！</description>
       
@@ -580,7 +616,7 @@
       <title>wednesday night・リリース</title>
       <link>https://npckc.itch.io/wednesday-night</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20221201/</guid>
+      <guid>https://npckc.net/ja/newsletter/20221201_news/</guid>
       
       <description>新作のリリース！</description>
       
@@ -589,7 +625,7 @@
       <title>WIRED・インタビュー</title>
       <link>https://wired.jp/article/why-stay-independent-3-npckc/#20221122</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20221122/</guid>
+      <guid>https://npckc.net/ja/newsletter/20221122_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -598,7 +634,7 @@
       <title>ghostfriend・リリース</title>
       <link>https://npckc.itch.io/ghostfriend</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20221031/</guid>
+      <guid>https://npckc.net/ja/newsletter/20221031_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -607,7 +643,7 @@
       <title>WIRED・インディーゲーム・特集</title>
       <link>https://wired.jp/magazine/vol_46/#20220914</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220914/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220914_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -616,7 +652,7 @@
       <title>Game*Spark・インタビュー</title>
       <link>https://www.gamespark.jp/article/2022/09/08/122153.html#20220908</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220908/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220908_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -625,7 +661,7 @@
       <title>GameDrive・a pet shop after dark・ニュース</title>
       <link>https://gamedrive.jp/news/1662019324#20220902</link>
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220902/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220902_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -634,7 +670,7 @@
       <title>AUTOMATON・a pet shop after dark・ニュース</title>
       <link>https://automaton-media.com/articles/newsjp/20220831-216962/#20220831</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220831_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220831_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -643,7 +679,7 @@
       <title>電ファミニコゲーマー・a pet shop after dark・ニュース</title>
       <link>https://news.denfaminicogamer.jp/news/220831n#20220831</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220831_4/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220831_4_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -652,7 +688,7 @@
       <title>ファミ通・a pet shop after dark・ニュース</title>
       <link>https://www.famitsu.com/news/202208/31274064.html#20220831</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220831_3/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220831_3_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -661,7 +697,7 @@
       <title>Game*Spark・a pet shop after dark・ニュース</title>
       <link>https://www.gamespark.jp/article/2022/08/31/121841.html#20220831</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220831_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220831_1_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -670,7 +706,7 @@
       <title>a pet shop after dark・リリース</title>
       <link>https://apetshopafterdark.npckc.net</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220830_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220830_1_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -679,7 +715,7 @@
       <title>GameWith・a pet shop after dark・ニュース</title>
       <link>https://gamewith.jp/pc/game/show/9911#20220830</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220830_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220830_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -688,7 +724,7 @@
       <title>Rock Paper Shotgun・インタビュー</title>
       <link>https://www.rockpapershotgun.com/a-year-of-springs-dev-npckc-interview-bitsummit-a-pet-shop-after-dark#20220823</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220823/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220823_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -697,7 +733,7 @@
       <title>Source Gaming・ビットサミット・特集</title>
       <link>https://sourcegaming.info/2022/08/12/bitsummit-x-roads-game-roundup/#20220812</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220812/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220812_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -706,7 +742,7 @@
       <title>Nintendo Blast・インタビュー</title>
       <link>https://www.nintendoblast.com.br/2022/06/entrevista-npckc-a-year-of-springs-representatividade-lgbtqiap-switch.html#20220628</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220628/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220628_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -715,7 +751,7 @@
       <title>caterpillar committee・リリース</title>
       <link>https://npckc.itch.io/caterpillar-committee</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220620/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220620_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -724,7 +760,7 @@
       <title>GateCrashers・A YEAR OF SPRINGS・レビュー</title>
       <link>https://gatecrashers.fan/2022/06/17/a-year-of-springs-and-learning-to-accept-our-changes/#20220617</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220617/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220617_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -733,7 +769,7 @@
       <title>Gamesline・インタビュー</title>
       <link>https://gamesline.net/springs-and-short-games-an-interview-with-npckc//#20220614</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220614/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220614_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -742,7 +778,7 @@
       <title>A HERO AND A GARDEN・リリース</title>
       <link>https://aheroandagarden.npckc.net</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220505/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220505_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -751,7 +787,7 @@
       <title>Game*Spark・anan・紹介</title>
       <link>https://www.gamespark.jp/article/2022/05/01/118224.html#20220501</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220501/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220501_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -760,7 +796,7 @@
       <title>LadiesGamers・Casting Hearts・レビュー</title>
       <link>https://ladiesgamers.com/casting-hearts-review/#20220416</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220416/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220416_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -769,7 +805,7 @@
       <title>casting hearts・リリース</title>
       <link>https://npckc.itch.io/casting-hearts</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220321/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220321_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -778,7 +814,7 @@
       <title>Morning Teacraft・リリース</title>
       <link>https://npckc.itch.io/morning-teacraft</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220317/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220317_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -787,7 +823,7 @@
       <title>Mima and Nina&#39;s Chocolate Workshop・リリース</title>
       <link>https://npckc.itch.io/mima-and-ninas-chocolate-workshop</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220214/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220214_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -796,7 +832,7 @@
       <title>IGN・ゲームオブザイヤー・特集2</title>
       <link>https://jp.ign.com/goty-top-10-p-2021/57024/feature/2021goty-a-year-of-springs#20220112</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220112/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220112_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -805,7 +841,7 @@
       <title>anan・インディーゲーム・特集</title>
       <link>https://ananweb.jp/news/397133/#20220202</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220202/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220202_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -814,7 +850,7 @@
       <title>riding past the end of the world・リリース</title>
       <link>https://npckc.itch.io/riding-past-the-end-of-the-world</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220120/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220120_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -823,7 +859,7 @@
       <title>IGN・ゲームオブザイヤー・特集1</title>
       <link>https://jp.ign.com/goty-top-10-p-2021/56859/feature/2021goty#20220105</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220105/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220105_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -832,7 +868,7 @@
       <title>Nintendo-Town・A YEAR OF SPRINGS・レビュー</title>
       <link>https://www.nintendo-town.fr/2022/01/03/a-year-of-springs-nintendo-switch-le-test/#20220103</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20220103/</guid>
+      <guid>https://npckc.net/ja/newsletter/20220103_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -841,7 +877,7 @@
       <title>Gamer&#39;s Palace・little boats of farewell・ニュース</title>
       <link>https://gamers-palace.de/little-boats-of-farewell-zeit-loszulassen/#20211230</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211230_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211230_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -850,7 +886,7 @@
       <title>little boats of farewell・リリース</title>
       <link>https://npckc.itch.io/little-boats-of-farewell</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211230_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211230_1_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -859,7 +895,7 @@
       <title>AUTOMATON・インディーGOTY・特集</title>
       <link>https://automaton-media.com/articles/columnjp/20211228-187403/#20211228</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211228/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211228_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -868,7 +904,7 @@
       <title>ソーシキ博士・インディーゲーム・特集</title>
       <link>https://bookclub.kodansha.co.jp/product?item=0000358680#20211224</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211224/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211224_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -877,7 +913,7 @@
       <title>Nintendo Blast・A YEAR OF SPRINGS・レビュー</title>
       <link>https://www.nintendoblast.com.br/2021/12/analise-a-year-of-springs-switch.html#20211214</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211214/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211214_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -886,7 +922,7 @@
       <title>A YEAR OF SPRINGS・CS向けリリース</title>
       <link>https://ayearofsprings.npckc.net</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211210_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211210_1_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -895,7 +931,7 @@
       <title>Gamer・A YEAR OF SPRINGS・ニュース</title>
       <link>https://www.gamer.ne.jp/news/202112100034/#20211210</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211210_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211210_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -904,7 +940,7 @@
       <title>AUTOMATON・A YEAR OF SPRINGS・ニュース</title>
       <link>https://automaton-media.com/articles/newsjp/20211207-184801/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211207/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211207_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -913,7 +949,7 @@
       <title>Gamers Zone・A YEAR OF SPRINGS・レビュー</title>
       <link>https://gamerszone.jp/post/3910#20211116</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211116/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211116_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -922,7 +958,7 @@
       <title>KAI-YOU・ソーシキ博士とのインタビュー</title>
       <link>https://premium.kai-you.net/article/447#20211102</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211102/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211102_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -931,7 +967,7 @@
       <title>ghostwriters &amp; co.・リリース</title>
       <link>https://npckc.itch.io/ghostwriters-and-co</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20211028/</guid>
+      <guid>https://npckc.net/ja/newsletter/20211028_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -940,7 +976,7 @@
       <title>WANrobo・リリース</title>
       <link>https://npckc.itch.io/wanrobo</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210826/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210826_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -949,7 +985,7 @@
       <title>Fantasy Tea Generator・リリース</title>
       <link>https://npckc.itch.io/fantasy-tea-generator</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210628/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210628_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -958,7 +994,7 @@
       <title>Google Play・プライド月間・特集</title>
       <link>https://play.google.com/store/apps/editorial_collection/promotion_topic_pride2021_xfn_hub?hl=en_IE&amp;gl=US#20210621</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210621_2/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210621_2_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -967,7 +1003,7 @@
       <title>tiny wanderer・リリース</title>
       <link>https://npckc.itch.io/tiny-wanderer</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210621_1/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210621_1_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -976,7 +1012,7 @@
       <title>A Wheel Without a View・リリース</title>
       <link>https://npckc.itch.io/a-wheel-without-a-view</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210611/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210611_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -985,7 +1021,7 @@
       <title>A YEAR OF SPRINGS・リリース</title>
       <link>https://ayearofsprings.npckc.net</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210514/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210514_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -994,7 +1030,7 @@
       <title>do it later・リリース</title>
       <link>https://npckc.itch.io/do-it-later</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210330/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210330_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1003,7 +1039,7 @@
       <title>FREE GAMES &amp; why we should PAY FOR THEM・リリース</title>
       <link>https://npckc.itch.io/free-games-zine</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210318/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210318_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1012,7 +1048,7 @@
       <title>Content Warning Generator・リリース</title>
       <link>https://npckc.itch.io/content-warning-generator</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210312/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210312_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1021,7 +1057,7 @@
       <title>湯圓 [tong jyun]・リリース</title>
       <link>https://npckc.itch.io/tongjyun</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210226/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210226_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1030,7 +1066,7 @@
       <title>Mail Rabbit・リリース（コラボ）</title>
       <link>https://thepsychefunk.itch.io/mail-rabbit</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20210131/</guid>
+      <guid>https://npckc.net/ja/newsletter/20210131_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1039,7 +1075,7 @@
       <title>Virtual Hatsumode・リリース</title>
       <link>https://npckc.itch.io/virtual-hatsumode</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20201230/</guid>
+      <guid>https://npckc.net/ja/newsletter/20201230_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1048,7 +1084,7 @@
       <title>Pronoun Tool・リリース</title>
       <link>https://npckc.itch.io/pronoun-tool</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20201211/</guid>
+      <guid>https://npckc.net/ja/newsletter/20201211_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1057,7 +1093,7 @@
       <title>The Shop of Good Memories・リリース</title>
       <link>https://npckc.itch.io/the-shop-of-good-memories</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20201128/</guid>
+      <guid>https://npckc.net/ja/newsletter/20201128_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1066,7 +1102,7 @@
       <title>A HERO AND A GARDEN・CS向けリリース</title>
       <link>https://aheroandagarden.npckc.net</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20201008/</guid>
+      <guid>https://npckc.net/ja/newsletter/20201008_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1075,7 +1111,7 @@
       <title>SPACE FROG!・リリース</title>
       <link>https://npckc.itch.io/space-frog</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20200930/</guid>
+      <guid>https://npckc.net/ja/newsletter/20200930_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1084,7 +1120,7 @@
       <title>Rock Paper Shotgun・spring leaves no flowers・レビュー</title>
       <link>https://www.rockpapershotgun.com/spring-leaves-no-flowers-shows-why-games-need-more-characters-to-come-out#20200701</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20200701/</guid>
+      <guid>https://npckc.net/ja/newsletter/20200701_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -1093,7 +1129,7 @@
       <title>a letter of challenge・リリース</title>
       <link>https://npckc.itch.io/a-letter-of-challenge</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20200622/</guid>
+      <guid>https://npckc.net/ja/newsletter/20200622_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1102,7 +1138,7 @@
       <title>deskspace・リリース</title>
       <link>https://npckc.itch.io/deskspace</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20200512/</guid>
+      <guid>https://npckc.net/ja/newsletter/20200512_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1111,7 +1147,7 @@
       <title>TOMATO CLINIC・リリース</title>
       <link>https://npckc.itch.io/tomato-clinic</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20200413/</guid>
+      <guid>https://npckc.net/ja/newsletter/20200413_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1120,7 +1156,7 @@
       <title>Digital Diversity・インタビュー</title>
       <link>https://enbykaiju.com/2020/03/19/digital-diversity-one-night-hot-springs/</link>
       <pubDate>Thu, 19 Mar 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20200319/</guid>
+      <guid>https://npckc.net/ja/newsletter/20200319_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -1129,7 +1165,7 @@
       <title>弱虫ダンジョン・リリース</title>
       <link>https://npckc.itch.io/scaredy-cat-dungeon</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20200109/</guid>
+      <guid>https://npckc.net/ja/newsletter/20200109_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1138,7 +1174,7 @@
       <title>My Grumpy Hyena!・リリース</title>
       <link>https://npckc.itch.io/my-grumpy-hyena</link>
       <pubDate>Thu, 26 Dec 2019 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20191226/</guid>
+      <guid>https://npckc.net/ja/newsletter/20191226_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1147,7 +1183,7 @@
       <title>Rock Paper Shotgun・last day of spring・レビュー</title>
       <link>https://www.rockpapershotgun.com/last-day-of-spring-and-seeing-trans-lives-through-cis-eyes#20191202</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20191202/</guid>
+      <guid>https://npckc.net/ja/newsletter/20191202_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -1156,7 +1192,7 @@
       <title>THE MONSTER CLUB・リリース</title>
       <link>https://npckc.itch.io/the-monster-club</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20191114/</guid>
+      <guid>https://npckc.net/ja/newsletter/20191114_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1165,7 +1201,7 @@
       <title>A TAVERN FOR TEA・リリース</title>
       <link>https://npckc.itch.io/a-tavern-for-tea</link>
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20190831/</guid>
+      <guid>https://npckc.net/ja/newsletter/20190831_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1174,7 +1210,7 @@
       <title>WIRED・last day of spring・レビュー</title>
       <link>https://wired.jp/2019/08/05/last-day-of-spring-trans-visibility#20190805</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20190805/</guid>
+      <guid>https://npckc.net/ja/newsletter/20190805_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -1183,7 +1219,7 @@
       <title>pocket friend・リリース</title>
       <link>https://npckc.itch.io/pocket-friend</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20190527/</guid>
+      <guid>https://npckc.net/ja/newsletter/20190527_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1192,7 +1228,7 @@
       <title>caption tool・リリース</title>
       <link>https://npckc.itch.io/caption-tool-for-renpy</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20190522/</guid>
+      <guid>https://npckc.net/ja/newsletter/20190522_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1201,7 +1237,7 @@
       <title>The Verge・last day of spring・レビュー</title>
       <link>https://www.theverge.com/2019/5/12/18537353/last-day-of-spring-itch-io-transgender-japan-lgbtq-ally-support#20190512</link>
       <pubDate>Sun, 12 May 2019 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20190512/</guid>
+      <guid>https://npckc.net/ja/newsletter/20190512_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -1210,7 +1246,7 @@
       <title>lilac &amp; her light・リリース</title>
       <link>https://npckc.itch.io/lilac-and-her-light</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20181031/</guid>
+      <guid>https://npckc.net/ja/newsletter/20181031_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1219,7 +1255,7 @@
       <title>The Verge・one night, hot springs・レビュー</title>
       <link>https://www.theverge.com/2018/10/14/17965198/one-night-hot-springs-itch-io-transgender-japan#20181014</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20181014/</guid>
+      <guid>https://npckc.net/ja/newsletter/20181014_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -1228,7 +1264,7 @@
       <title>もぐらゲームズ・one night, hot springs・レビュー</title>
       <link>https://www.moguragames.com/one-night-hot-springs/#20180916</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20180916/</guid>
+      <guid>https://npckc.net/ja/newsletter/20180916_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -1237,7 +1273,7 @@
       <title>PENGUIN CAFE・リリース</title>
       <link>https://npckc.itch.io/penguin-cafe</link>
       <pubDate>Sat, 28 Jul 2018 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20180728/</guid>
+      <guid>https://npckc.net/ja/newsletter/20180728_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1246,7 +1282,7 @@
       <title>one night, hot springs・リリース</title>
       <link>https://npckc.itch.io/one-night-hot-springs</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20180227/</guid>
+      <guid>https://npckc.net/ja/newsletter/20180227_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1255,7 +1291,7 @@
       <title>Rock Paper Shotgun・Ace Jam・特集</title>
       <link>https://www.rockpapershotgun.com/ace-jam-created-a-space-for-games-with-asexual-characters#20180215</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20180215/</guid>
+      <guid>https://npckc.net/ja/newsletter/20180215_news/</guid>
       
       <description>ニュースへのリンク</description>
       
@@ -1264,7 +1300,7 @@
       <title>two girls make a game・リリース</title>
       <link>https://npckc.itch.io/two-girls-make-a-game</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20180131/</guid>
+      <guid>https://npckc.net/ja/newsletter/20180131_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1273,7 +1309,7 @@
       <title>cleaning house・リリース</title>
       <link>https://npckc.itch.io/cleaning-house</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20171204/</guid>
+      <guid>https://npckc.net/ja/newsletter/20171204_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1282,7 +1318,7 @@
       <title>GHOSTS IN THE GARDEN・リリース</title>
       <link>https://npckc.itch.io/ghosts-in-the-garden</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20171030/</guid>
+      <guid>https://npckc.net/ja/newsletter/20171030_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1291,7 +1327,7 @@
       <title>Magical Witch Bell and her Non-Magical Friends・リリース</title>
       <link>https://npckc.itch.io/magicalwitchbell</link>
       <pubDate>Wed, 18 Oct 2017 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20171018/</guid>
+      <guid>https://npckc.net/ja/newsletter/20171018_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1300,7 +1336,7 @@
       <title>you should eat breakfast・リリース</title>
       <link>https://npckc.itch.io/you-should-eat-breakfast</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20170420/</guid>
+      <guid>https://npckc.net/ja/newsletter/20170420_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1309,7 +1345,7 @@
       <title>bunnysitting・リリース</title>
       <link>https://npckc.itch.io/bunnysitting</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20170410/</guid>
+      <guid>https://npckc.net/ja/newsletter/20170410_release/</guid>
       
       <description>新作のリリース！</description>
       
@@ -1318,7 +1354,7 @@
       <title>you have to go to work・リリース</title>
       <link>https://npckc.itch.io/you-have-to-go-to-work</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0900</pubDate>
-      <guid>https://npckc.net/ja/newsletter/20170329/</guid>
+      <guid>https://npckc.net/ja/newsletter/20170329_release/</guid>
       
       <description>新作のリリース！</description>
       
