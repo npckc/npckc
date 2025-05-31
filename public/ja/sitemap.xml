@@ -978,6 +978,20 @@
                 href="https://npckc.net/ja/info/"
                 />
   </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250531_update/</loc>
+    <lastmod>2025-05-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250531_update/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250531_update/"
+                />
+  </url><url>
     <loc>https://npckc.net/ja/newsletter/20250530_news/</loc>
     <lastmod>2025-05-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
