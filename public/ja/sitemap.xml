@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://npckc.net/ja/</loc>
-    <lastmod>2025-06-01T00:00:00+09:00</lastmod>
+    <lastmod>2025-06-07T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/</loc>
-    <lastmod>2025-06-01T00:00:00+09:00</lastmod>
+    <lastmod>2025-06-07T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -976,6 +976,62 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/info/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250607_release/</loc>
+    <lastmod>2025-06-07T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250607_release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250607_release/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250601_exhibit/</loc>
+    <lastmod>2025-06-01T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250601_exhibit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250601_exhibit/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250601_2_news/</loc>
+    <lastmod>2025-06-01T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250601_2_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250601_2_news/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250601_1_news/</loc>
+    <lastmod>2025-06-01T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250601_1_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250601_1_news/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/20250531_update/</loc>
