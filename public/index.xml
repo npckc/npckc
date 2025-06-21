@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-CA</language>
     <copyright>© npckc</copyright>
-    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://npckc.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMITIA - COMITIA152 report</title>
+      <link>https://www.comitia.co.jp/history/152report.html</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>https://npckc.net/newsletter/20250617_news/</guid>
+      
+      <description>News link</description>
+      
+    </item>
     <item>
       <title>A TAVERN BEFORE TEA release</title>
       <link>https://npckc.itch.io/a-tavern-before-tea</link>
@@ -28,7 +37,7 @@
       
     </item>
     <item>
-      <title>Google Play - A YEAR OF SPRINGS - news</title>
+      <title>Google Play - A YEAR OF SPRINGS news</title>
       <link>https://play.google.com/store/apps/eventdetails/4830730129843082250?gl=US </link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0900</pubDate>
       <guid>https://npckc.net/newsletter/20250601_2_news/</guid>
