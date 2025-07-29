@@ -3204,6 +3204,19 @@
                 href="https://npckc.net/newsletter/20170329_release/"
                 />
   </url><url>
+    <loc>https://npckc.net/games/atavernfortea/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/games/atavernfortea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/games/atavernfortea/"
+                />
+  </url><url>
     <loc>https://npckc.net/genre/</loc>
     <priority>0</priority>
     <xhtml:link
