@@ -954,19 +954,6 @@
                 href="https://npckc.net/patreon/archive/202004/"
                 />
   </url><url>
-    <loc>https://npckc.net/not_found/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/not_found/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/not_found/"
-                />
-  </url><url>
     <loc>https://npckc.net/games/</loc>
     <priority>0</priority>
     <xhtml:link
