@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://npckc.net/ja/</loc>
+    <lastmod>2025-07-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/</loc>
+    <lastmod>2025-07-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/"
+                />
+  </url><url>
     <loc>https://npckc.net/ja/patreon/archive/202507/</loc>
     <lastmod>2025-07-29T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -44,20 +72,6 @@
                 href="https://npckc.net/ja/patreon/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/</loc>
-    <lastmod>2025-07-29T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/"
-                />
-  </url><url>
     <loc>https://npckc.net/ja/patreon/archive/202506/</loc>
     <lastmod>2025-06-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -70,20 +84,6 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/patreon/archive/202506/"
-                />
-  </url><url>
-    <loc>https://npckc.net/ja/newsletter/</loc>
-    <lastmod>2025-06-19T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/newsletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/patreon/archive/202505/</loc>
@@ -1004,6 +1004,20 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/info/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250730_release/</loc>
+    <lastmod>2025-07-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250730_release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250730_release/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/20250619_news/</loc>
@@ -3217,6 +3231,32 @@
                 href="https://npckc.net/ja/games/atavernfortea/"
                 />
   </url><url>
+    <loc>https://npckc.net/ja/genre/collab/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/genre/collab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/genre/collab/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/genre/collection/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/genre/collection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/genre/collection/"
+                />
+  </url><url>
     <loc>https://npckc.net/ja/genre/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3228,6 +3268,19 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/genre/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/games/indiegamecheats/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/games/indiegamecheats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/games/indiegamecheats/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/games/marronsday/</loc>

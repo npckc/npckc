@@ -156,6 +156,14 @@ div#language:hover {
 
 }
 
+::-moz-selection {
+    background: rgba(4, 51, 68, 0.15);
+}
+
+::selection {
+    background: rgba(4, 51, 68, 0.15);
+}
+
 div#language:hover a {
     color: rgba(4, 51, 68, 0.71);
 }
