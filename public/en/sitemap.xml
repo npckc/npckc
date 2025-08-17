@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://npckc.net/</loc>
-    <lastmod>2025-07-30T00:00:00+09:00</lastmod>
+    <lastmod>2025-08-10T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/newsletter/</loc>
-    <lastmod>2025-07-30T00:00:00+09:00</lastmod>
+    <lastmod>2025-08-10T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1004,6 +1004,20 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://npckc.net/portfolio/"
+                />
+  </url><url>
+    <loc>https://npckc.net/newsletter/20250810_release/</loc>
+    <lastmod>2025-08-10T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250810_release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250810_release/"
                 />
   </url><url>
     <loc>https://npckc.net/newsletter/20250730_release/</loc>
@@ -3230,6 +3244,32 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://npckc.net/newsletter/20170329_release/"
+                />
+  </url><url>
+    <loc>https://npckc.net/games/apetshopafterdark/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/games/apetshopafterdark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/games/apetshopafterdark/"
+                />
+  </url><url>
+    <loc>https://npckc.net/games/apetshopafterdark/blaisetacos/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/games/apetshopafterdark/blaisetacos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/games/apetshopafterdark/blaisetacos/"
                 />
   </url><url>
     <loc>https://npckc.net/games/atavernfortea/</loc>

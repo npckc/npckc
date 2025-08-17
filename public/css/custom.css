@@ -209,7 +209,6 @@ table.shop tr:not(:first-child) {
 ul.home.patreon li {
     background-color: rgba(255, 170, 233, 0.71);
     font-size: 18px;
-
 }
 
 /* newsletter */
@@ -250,6 +249,7 @@ div.news-posts {
 div.news-small {
     font-size: 70%;
     line-height: 1.4;
+    margin-bottom: 8px;
 }
 
 div.news-archive {
@@ -287,8 +287,8 @@ div.blog-posts {
     text-align: center;
 }
 
-.pagination li:not(:nth-last-child(2)) {
-    margin-right: 10px;
+.pagination li:not(last-child) {
+    padding-right: 8px;
 }
 
 .pagination li.active a {
@@ -300,10 +300,120 @@ div.blog-posts {
     text-decoration: none;
 }
 
-.pagination li:first-child,
+/* .pagination li:first-child,
 .pagination li:last-child {
     display: none;
+} */
+
+/* top page marquee */
+
+.newsmarquee {
+    display: inline-block;
+    margin: auto;
+    margin-top: -8px;
+    padding: 0;
+    width: 300px;
+    max-width: 100%;
 }
+
+.marqueeblock {
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 10px;
+    background-color: rgba(255, 170, 233, 0.71);
+    border-radius: 32px;
+    -webkit-border-radius: 32px;
+    -moz-border-radius: 32px;
+    color: #fff;
+    margin-right: 12px;
+    margin-left: 12px;
+}
+
+.marqueeblock:hover {
+    background-color: rgba(4, 51, 68, 0.71);
+}
+
+.marqueeblock div {
+    animation: marquee 5s linear infinite;
+    display: inline-block;
+}
+
+.marqueeblock div span:not(.marqueetext) {
+    display: inline-block;
+    padding-right: 36px;
+}
+
+.marqueeblock:hover div {
+    animation-play-state: paused;
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .marqueeblock {
+        /* allow scroll, remove scrollbars */
+        overflow: scroll;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+
+    /* remove scrollbars */
+    .marqueeblock::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* remove animation */
+    .marqueeblock div {
+        animation: none;
+    }
+
+    /* remove padding */
+    .marqueeblock div span:not(.marqueetext) {
+        padding-right: 0px;
+    }
+
+    /* hide second span */
+    .marqueeblock div span:not(:first-child) {
+        display: none;
+    }
+}
+
+.newsmarquee a {
+    text-decoration: none;
+}
+
+.marqueetext {
+    text-decoration: bold;
+    font-size: 75%;
+    vertical-align: 1.5px;
+    /* animation: blink 1s linear infinite; */
+}
+
+/* @keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    49% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+} */
 
 /* top page buttons */
 ul.home {
@@ -447,7 +557,7 @@ textarea {
 
 ::placeholder {
     color: rgba(4, 51, 68, 0.5);
-    font-size: 14px;
+    font-size: 12px;
 }
 
 details summary {

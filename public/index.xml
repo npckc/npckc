@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-CA</language>
     <copyright>© npckc</copyright>
-    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://npckc.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Picogori 2025 (collab)</title>
+      <link>https://npckc.itch.io/picogori-2025</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0900</pubDate>
+      <guid>https://npckc.net/newsletter/20250810_release/</guid>
+      
+      <description>New release!</description>
+      
+    </item>
     <item>
       <title>Indie Game Cheats release (collab)</title>
       <link>https://npckc.itch.io/indie-game-cheats</link>
@@ -344,7 +353,7 @@
     </item>
     <item>
       <title>Blaise Tacos - a pet shop after dark collab menu</title>
-      <link>https://apetshopafterdark.npckc.net/#tacos</link>
+      <link>https://npckc.net/games/apetshopafterdark/blaisetacos</link>
       <pubDate>Sat, 08 Jun 2024 00:00:00 +0900</pubDate>
       <guid>https://npckc.net/newsletter/20240608_news/</guid>
       
