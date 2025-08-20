@@ -3246,6 +3246,19 @@
                 href="https://npckc.net/ja/newsletter/20170329_release/"
                 />
   </url><url>
+    <loc>https://npckc.net/ja/games/aheroandagarden/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/games/aheroandagarden/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/games/aheroandagarden/"
+                />
+  </url><url>
     <loc>https://npckc.net/ja/games/apetshopafterdark/</loc>
     <priority>0</priority>
     <xhtml:link
