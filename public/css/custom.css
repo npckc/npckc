@@ -549,6 +549,10 @@ textarea:focus {
     outline: 0;
 }
 
+input:user-invalid {
+    background-color: rgba(255, 170, 233, 0.17);
+}
+
 textarea {
     padding-top: 18px;
     padding-bottom: 18px;
