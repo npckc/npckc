@@ -2,8 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://npckc.net/ja/patreon/archive/202508/</loc>
+    <lastmod>2025-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/202508/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/202508/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/patreon/archive/</loc>
+    <lastmod>2025-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/patreon/</loc>
+    <lastmod>2025-08-27T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/"
+                />
+  </url><url>
     <loc>https://npckc.net/ja/</loc>
-    <lastmod>2025-08-26T00:00:00+09:00</lastmod>
+    <lastmod>2025-08-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -42,34 +84,6 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/patreon/archive/202507/"
-                />
-  </url><url>
-    <loc>https://npckc.net/ja/patreon/archive/</loc>
-    <lastmod>2025-07-29T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/patreon/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/archive/"
-                />
-  </url><url>
-    <loc>https://npckc.net/ja/patreon/</loc>
-    <lastmod>2025-07-29T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/patreon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/patreon/archive/202506/</loc>
@@ -1146,18 +1160,18 @@
                 href="https://npckc.net/ja/newsletter/20250601_1_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250531_game/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250531_news/</loc>
     <lastmod>2025-05-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250531_game/"
+                href="https://npckc.net/newsletter/20250531_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250531_game/"
+                href="https://npckc.net/ja/newsletter/20250531_news/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/20250530_news/</loc>
@@ -1230,18 +1244,18 @@
                 href="https://npckc.net/ja/newsletter/20250408_game/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250402_game/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250402_news/</loc>
     <lastmod>2025-04-02T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250402_game/"
+                href="https://npckc.net/newsletter/20250402_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250402_game/"
+                href="https://npckc.net/ja/newsletter/20250402_news/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/20250329_news/</loc>
@@ -1258,18 +1272,18 @@
                 href="https://npckc.net/ja/newsletter/20250329_news/"
                 />
   </url><url>
-    <loc>https://npckc.net/ja/newsletter/20250327_game/</loc>
+    <loc>https://npckc.net/ja/newsletter/20250327_news/</loc>
     <lastmod>2025-03-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/newsletter/20250327_game/"
+                href="https://npckc.net/newsletter/20250327_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/20250327_game/"
+                href="https://npckc.net/ja/newsletter/20250327_news/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/20250309_news/</loc>
