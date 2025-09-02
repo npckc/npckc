@@ -327,20 +327,18 @@ div.blog-posts {
     color: #fff;
     margin-right: 12px;
     margin-left: 12px;
+    transition: background-color 0.5s ease;
+
 }
 
 .marqueeblock:hover {
     background-color: rgba(4, 51, 68, 0.71);
+    transition: background-color 0.5s ease;
 }
 
 .marqueeblock div {
-    animation: marquee 5s linear infinite;
+    animation: marquee 10s linear infinite;
     display: inline-block;
-}
-
-.marqueeblock div span:not(.marqueetext) {
-    display: inline-block;
-    padding-right: 36px;
 }
 
 .marqueeblock:hover div {
@@ -388,6 +386,12 @@ div.blog-posts {
 
 .newsmarquee a {
     text-decoration: none;
+    color: #ffffff
+}
+
+.newsmarquee a:hover {
+    text-decoration: none;
+    color: rgba(255, 170, 233, 0.71);
 }
 
 .marqueetext {
