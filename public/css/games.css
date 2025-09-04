@@ -203,19 +203,13 @@ div#language {
     text-align: center;
     overflow: auto;
     transition: top 0.3s, color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
-}
-
-#language a {
     color: #222222;
     text-decoration: none;
 }
 
 div#language:hover {
     background-color: #22222233;
-}
-
-div#language:hover a {
-    color: #222222;
+    color: #222222B3;
 }
 
 /* button links */
