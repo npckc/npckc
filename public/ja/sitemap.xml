@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://npckc.net/ja/</loc>
-    <lastmod>2025-09-04T00:00:00+09:00</lastmod>
+    <lastmod>2025-09-10T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/</loc>
-    <lastmod>2025-09-04T00:00:00+09:00</lastmod>
+    <lastmod>2025-09-10T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1018,6 +1018,20 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/info/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250910_news/</loc>
+    <lastmod>2025-09-10T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250910_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250910_news/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/20250904_news/</loc>
