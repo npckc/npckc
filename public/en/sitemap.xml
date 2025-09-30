@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://npckc.net/</loc>
-    <lastmod>2025-09-22T00:00:00+09:00</lastmod>
+    <lastmod>2025-10-04T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/newsletter/</loc>
-    <lastmod>2025-09-22T00:00:00+09:00</lastmod>
+    <lastmod>2025-10-04T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +28,48 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://npckc.net/newsletter/"
+                />
+  </url><url>
+    <loc>https://npckc.net/patreon/archive/202509/</loc>
+    <lastmod>2025-09-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/202509/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/202509/"
+                />
+  </url><url>
+    <loc>https://npckc.net/patreon/archive/</loc>
+    <lastmod>2025-09-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/"
+                />
+  </url><url>
+    <loc>https://npckc.net/patreon/</loc>
+    <lastmod>2025-09-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/"
                 />
   </url><url>
     <loc>https://npckc.net/patreon/archive/202508/</loc>
@@ -42,34 +84,6 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://npckc.net/patreon/archive/202508/"
-                />
-  </url><url>
-    <loc>https://npckc.net/patreon/archive/</loc>
-    <lastmod>2025-08-27T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/patreon/archive/"
-                />
-  </url><url>
-    <loc>https://npckc.net/patreon/</loc>
-    <lastmod>2025-08-27T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/patreon/"
                 />
   </url><url>
     <loc>https://npckc.net/patreon/archive/202507/</loc>
@@ -3354,6 +3368,19 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://npckc.net/games/apetshopafterdark/"
+                />
+  </url><url>
+    <loc>https://npckc.net/games/apetshopafterdark/fanboxprint202510/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/games/apetshopafterdark/fanboxprint202510/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/games/apetshopafterdark/fanboxprint202510/"
                 />
   </url><url>
     <loc>https://npckc.net/games/apetshopafterdark/blaisetacos/</loc>

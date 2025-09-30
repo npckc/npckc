@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://npckc.net/ja/</loc>
-    <lastmod>2025-09-22T00:00:00+09:00</lastmod>
+    <lastmod>2025-10-04T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/</loc>
-    <lastmod>2025-09-22T00:00:00+09:00</lastmod>
+    <lastmod>2025-10-04T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +28,48 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/newsletter/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/patreon/archive/202509/</loc>
+    <lastmod>2025-09-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/202509/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/202509/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/patreon/archive/</loc>
+    <lastmod>2025-09-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/patreon/</loc>
+    <lastmod>2025-09-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/patreon/archive/202508/</loc>
@@ -42,34 +84,6 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/patreon/archive/202508/"
-                />
-  </url><url>
-    <loc>https://npckc.net/ja/patreon/archive/</loc>
-    <lastmod>2025-08-27T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/patreon/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/archive/"
-                />
-  </url><url>
-    <loc>https://npckc.net/ja/patreon/</loc>
-    <lastmod>2025-08-27T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/patreon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/patreon/archive/202507/</loc>
@@ -3367,6 +3381,19 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/games/apetshopafterdark/blaisetacos/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/games/apetshopafterdark/fanboxprint202510/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/games/apetshopafterdark/fanboxprint202510/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/games/apetshopafterdark/fanboxprint202510/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/games/atavernfortea/</loc>
