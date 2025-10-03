@@ -1034,6 +1034,20 @@
                 href="https://npckc.net/portfolio/"
                 />
   </url><url>
+    <loc>https://npckc.net/newsletter/20251003_news/</loc>
+    <lastmod>2025-10-03T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20251003_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20251003_news/"
+                />
+  </url><url>
     <loc>https://npckc.net/newsletter/20250922_game/</loc>
     <lastmod>2025-09-22T00:00:00+09:00</lastmod>
     <priority>0</priority>
