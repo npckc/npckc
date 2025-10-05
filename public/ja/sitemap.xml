@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://npckc.net/ja/</loc>
-    <lastmod>2025-10-04T00:00:00+09:00</lastmod>
+    <lastmod>2025-10-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/</loc>
-    <lastmod>2025-10-04T00:00:00+09:00</lastmod>
+    <lastmod>2025-10-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1034,6 +1034,34 @@
                 href="https://npckc.net/ja/info/"
                 />
   </url><url>
+    <loc>https://npckc.net/ja/newsletter/20251025_news/</loc>
+    <lastmod>2025-10-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20251025_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20251025_news/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20251004_news/</loc>
+    <lastmod>2025-10-04T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20251004_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20251004_news/"
+                />
+  </url><url>
     <loc>https://npckc.net/ja/newsletter/20251003_news/</loc>
     <lastmod>2025-10-03T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -1116,6 +1144,20 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/newsletter/20250826_news/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20250822_news/</loc>
+    <lastmod>2025-08-22T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20250822_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20250822_news/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/20250810_game/</loc>
