@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://npckc.net/patreon/archive/202512/</loc>
-    <lastmod>2025-12-31T00:00:00+09:00</lastmod>
+    <loc>https://npckc.net/patreon/archive/202601/</loc>
+    <lastmod>2026-01-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://npckc.net/ja/patreon/archive/202512/"
+                href="https://npckc.net/ja/patreon/archive/202601/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-CA"
-                href="https://npckc.net/patreon/archive/202512/"
+                href="https://npckc.net/patreon/archive/202601/"
                 />
   </url><url>
     <loc>https://npckc.net/patreon/archive/</loc>
-    <lastmod>2025-12-31T00:00:00+09:00</lastmod>
+    <lastmod>2026-01-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/</loc>
-    <lastmod>2025-12-31T00:00:00+09:00</lastmod>
+    <lastmod>2026-01-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/patreon/</loc>
-    <lastmod>2025-12-31T00:00:00+09:00</lastmod>
+    <lastmod>2026-01-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +56,20 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://npckc.net/patreon/"
+                />
+  </url><url>
+    <loc>https://npckc.net/patreon/archive/202512/</loc>
+    <lastmod>2025-12-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/patreon/archive/202512/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/patreon/archive/202512/"
                 />
   </url><url>
     <loc>https://npckc.net/newsletter/</loc>
