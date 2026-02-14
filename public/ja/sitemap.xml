@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://npckc.net/ja/</loc>
-    <lastmod>2026-02-13T00:00:00+09:00</lastmod>
+    <lastmod>2026-02-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/</loc>
-    <lastmod>2026-02-13T00:00:00+09:00</lastmod>
+    <lastmod>2026-02-14T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1089,6 +1089,10 @@
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/info/"
                 />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20260214_game/</loc>
+    <lastmod>2026-02-14T00:00:00+09:00</lastmod>
+    <priority>0</priority>
   </url><url>
     <loc>https://npckc.net/ja/newsletter/20260213_news/</loc>
     <lastmod>2026-02-13T00:00:00+09:00</lastmod>
