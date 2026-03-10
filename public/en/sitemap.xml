@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://npckc.net/</loc>
+    <lastmod>2026-03-08T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/"
+                />
+  </url><url>
+    <loc>https://npckc.net/newsletter/</loc>
+    <lastmod>2026-03-08T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/"
+                />
+  </url><url>
     <loc>https://npckc.net/patreon/archive/202602/</loc>
     <lastmod>2026-02-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -30,20 +58,6 @@
                 href="https://npckc.net/patreon/archive/"
                 />
   </url><url>
-    <loc>https://npckc.net/</loc>
-    <lastmod>2026-02-27T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/"
-                />
-  </url><url>
     <loc>https://npckc.net/patreon/</loc>
     <lastmod>2026-02-27T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -56,20 +70,6 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://npckc.net/patreon/"
-                />
-  </url><url>
-    <loc>https://npckc.net/newsletter/</loc>
-    <lastmod>2026-02-14T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/newsletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/newsletter/"
                 />
   </url><url>
     <loc>https://npckc.net/patreon/archive/202601/</loc>
@@ -1102,6 +1102,20 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://npckc.net/portfolio/"
+                />
+  </url><url>
+    <loc>https://npckc.net/newsletter/20260308_game/</loc>
+    <lastmod>2026-03-08T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20260308_game/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20260308_game/"
                 />
   </url><url>
     <loc>https://npckc.net/newsletter/20260214_game/</loc>
@@ -2768,6 +2782,20 @@
                 rel="alternate"
                 hreflang="en-CA"
                 href="https://npckc.net/newsletter/20220120_game/"
+                />
+  </url><url>
+    <loc>https://npckc.net/newsletter/20220115_news/</loc>
+    <lastmod>2022-01-15T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20220115_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20220115_news/"
                 />
   </url><url>
     <loc>https://npckc.net/newsletter/20220105_news/</loc>
