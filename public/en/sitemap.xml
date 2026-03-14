@@ -3673,6 +3673,19 @@
                 href="https://npckc.net/games/ayearofsprings/plushwonderland/"
                 />
   </url><url>
+    <loc>https://npckc.net/meishi/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/meishi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/meishi/"
+                />
+  </url><url>
     <loc>https://npckc.net/genre/collab/</loc>
     <priority>0</priority>
     <xhtml:link
