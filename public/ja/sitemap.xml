@@ -59,7 +59,7 @@
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/</loc>
-    <lastmod>2026-05-12T00:00:00+09:00</lastmod>
+    <lastmod>2026-05-29T00:00:00+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1144,6 +1144,20 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/info/"
+                />
+  </url><url>
+    <loc>https://npckc.net/ja/newsletter/20260529_news/</loc>
+    <lastmod>2026-05-29T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/newsletter/20260529_news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/newsletter/20260529_news/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/newsletter/20260512_news/</loc>
