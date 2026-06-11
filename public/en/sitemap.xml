@@ -3875,5 +3875,18 @@
                 hreflang="en-CA"
                 href="https://npckc.net/privacy/"
                 />
+  </url><url>
+    <loc>https://npckc.net/games/truelovescurse/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/games/truelovescurse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/games/truelovescurse/"
+                />
   </url>
 </urlset>
