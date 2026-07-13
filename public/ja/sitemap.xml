@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://npckc.net/ja/</loc>
+    <lastmod>2026-07-13T00:00:00+09:00</lastmod>
+    <priority>1</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-CA"
+                href="https://npckc.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://npckc.net/ja/"
+                />
+  </url><url>
     <loc>https://npckc.net/ja/patreon/</loc>
     <lastmod>2026-06-26T00:00:00+09:00</lastmod>
     <priority>1</priority>
@@ -14,20 +28,6 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://npckc.net/ja/patreon/"
-                />
-  </url><url>
-    <loc>https://npckc.net/ja/</loc>
-    <lastmod>2026-06-26T00:00:00+09:00</lastmod>
-    <priority>1</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-CA"
-                href="https://npckc.net/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://npckc.net/ja/"
                 />
   </url><url>
     <loc>https://npckc.net/ja/thanks/</loc>

@@ -8,8 +8,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-CA</language>
     <copyright>© npckc</copyright>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://npckc.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TRUE LOVE&#39;S CURSE - release</title>
+      <link>https://store.steampowered.com/app/4733520/TRUE_LOVES_CURSE/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0900</pubDate>
+      <dc:creator>npckc</dc:creator>
+      <guid>https://npckc.net/newsletter/20260713_game/</guid>
+      
+      <description>New release!</description>
+      
+    </item>
     <item>
       <title>Basajaun Games - TRUE LOVE&#39;S CURSE - news</title>
       <link>https://www.basajaungames.com/en/true-loves-curse-our-new-collab-with-npckc/</link>
@@ -81,7 +91,7 @@
       
     </item>
     <item>
-      <title>TRUE LOVE&#39;S CURSE - release</title>
+      <title>TRUE LOVE&#39;S CURSE - jam version release</title>
       <link>https://npckc.itch.io/true-loves-curse</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0900</pubDate>
       <dc:creator>npckc</dc:creator>
@@ -118,16 +128,6 @@
       <guid>https://npckc.net/newsletter/20251130_game/</guid>
       
       <description>New release!</description>
-      
-    </item>
-    <item>
-      <title>A HERO AND A GARDEN - Game*Spark - レポート</title>
-      <link>https://www.gamespark.jp/article/2025/11/08/159246.html</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0900</pubDate>
-      <dc:creator>npckc</dc:creator>
-      <guid>https://npckc.net/newsletter/20251108_news_2/</guid>
-      
-      <description>News link</description>
       
     </item>
   </channel>
