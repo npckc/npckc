@@ -8,12 +8,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>© npckc</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://npckc.net/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>past-a-pile・リリース</title>
+      <link>https://npckc.itch.io/past-a-pile</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
+      <dc:creator>npckc</dc:creator>
+      <guid>https://npckc.net/ja/newsletter/20260928_game/</guid>
+      
+      <description>新作のリリース！</description>
+      
+    </item>
     <item>
       <title>Foxy Succubus Maker・リリース</title>
       <link>https://moonlightjammers.itch.io/foxy-succubus-maker</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0900</pubDate>
       <dc:creator>npckc</dc:creator>
       <guid>https://npckc.net/ja/newsletter/20260831_game/</guid>
       
@@ -118,16 +128,6 @@
       <guid>https://npckc.net/ja/newsletter/20260213_news/</guid>
       
       <description>ニュースへのリンク</description>
-      
-    </item>
-    <item>
-      <title>The Servers Are Shutting Down in 24 Hours but My Pull Rate&#39;s Been Set to 0.0001%?!・リリース</title>
-      <link>https://npckc.itch.io/server-shutdown</link>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 +0900</pubDate>
-      <dc:creator>npckc</dc:creator>
-      <guid>https://npckc.net/ja/newsletter/20251229_game/</guid>
-      
-      <description>新作のリリース！</description>
       
     </item>
   </channel>
