@@ -8,8 +8,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>© npckc</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://npckc.net/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humble Bundle・a pet shop after dark・バンドル</title>
+      <link>https://www.humblebundle.com/games/cozy-after-dark-showcase-bundle</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
+      <dc:creator>npckc</dc:creator>
+      <guid>https://npckc.net/ja/newsletter/20261013_news/</guid>
+      
+      <description>ニュースへのリンク</description>
+      
+    </item>
     <item>
       <title>past-a-pile・リリース</title>
       <link>https://npckc.itch.io/past-a-pile</link>
@@ -118,16 +128,6 @@
       <guid>https://npckc.net/ja/newsletter/20260214_game/</guid>
       
       <description>新作のリリース！</description>
-      
-    </item>
-    <item>
-      <title>A YEAR OF SPRINGS・Fanatical・バンドル</title>
-      <link>https://www.fanatical.com/en/pick-and-mix/build-your-own-romance-bundle</link>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0900</pubDate>
-      <dc:creator>npckc</dc:creator>
-      <guid>https://npckc.net/ja/newsletter/20260213_news/</guid>
-      
-      <description>ニュースへのリンク</description>
       
     </item>
   </channel>
