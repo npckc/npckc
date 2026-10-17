@@ -8,10 +8,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>© npckc</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://npckc.net/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Humble Bundle・a pet shop after dark・バンドル</title>
+      <title>Under Commons・イラスト・展示</title>
+      <link>https://artcenter-new.jp/under-commons-vol2/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
+      <dc:creator>npckc</dc:creator>
+      <guid>https://npckc.net/ja/newsletter/20261016_news/</guid>
+      
+      <description>ニュースへのリンク</description>
+      
+    </item>
+    <item>
+      <title>a pet shop after dark・Humble Bundle・news</title>
       <link>https://www.humblebundle.com/games/cozy-after-dark-showcase-bundle</link>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
       <dc:creator>npckc</dc:creator>
@@ -116,16 +126,6 @@
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0900</pubDate>
       <dc:creator>npckc</dc:creator>
       <guid>https://npckc.net/ja/newsletter/20260308_game/</guid>
-      
-      <description>新作のリリース！</description>
-      
-    </item>
-    <item>
-      <title>TRUE LOVE&#39;S CURSE・ジャム向けリリース</title>
-      <link>https://npckc.itch.io/true-loves-curse</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0900</pubDate>
-      <dc:creator>npckc</dc:creator>
-      <guid>https://npckc.net/ja/newsletter/20260214_game/</guid>
       
       <description>新作のリリース！</description>
       
